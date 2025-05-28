@@ -73,7 +73,7 @@ format:
 
 **All patients with acute pancreatitis (AP)** should be considered at **moderate to high nutritional risk** due to the disease’s **catabolic nature** and its impact on outcomes.
 
-**(S1, strong consensus, 97 %)**
+*(S1, strong consensus, 97 %)*
 
 -   **Mild to Moderate AP:**
     -   Most patients recover fully within a week.
@@ -103,7 +103,7 @@ Fig. 1. Nutritional [management of acute pancreatitis](https://www.sciencedirect
 
 2.  Patients with **predicted severe AP** are **automatically considered at nutritional risk**—no additional screening needed.
 
-**(R1, grade B, strong consensus, 100 %)**
+*(R1, grade B, strong consensus, 100 %)*
 
 -   **Screening Tools:**
     -   [NRS 2002](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib12) helps identify patients at nutritional risk.
@@ -152,7 +152,7 @@ Um médico residente está avaliando um paciente com pancreatite aguda (PA) na e
 
 Begin **oral feeding** as soon as **clinically tolerated**, regardless of **serum [lipase](https://www.sciencedirect.com/topics/medicine-and-dentistry/triacylglycerol-lipase) levels** in patients with predicted mild/moderate AP.
 
-**(R2, grade A, strong consensus, 100 %)**
+*(R2, grade A, strong consensus, 100 %)*
 
 -   **Evidence from 4 [RCTs](https://www.sciencedirect.com/topics/medicine-and-dentistry/randomized-controlled-trial):**
     -   **Early oral feeding** is safe and well-tolerated.
@@ -168,7 +168,7 @@ Begin **oral feeding** as soon as **clinically tolerated**, regardless of **seru
 
 Use a **low-fat, soft oral diet** when restarting feeding in patients with **mild/moderate AP**.
 
-**(R3, grade A, strong consensus, 100 %)**
+*(R3, grade A, strong consensus, 100 %)*
 
 -   **Soft diets** improve [caloric intake](https://www.sciencedirect.com/topics/medicine-and-dentistry/caloric-intake) and are **as well tolerated** as [clear liquid diets](https://www.sciencedirect.com/topics/medicine-and-dentistry/clear-liquid-diet) \[[22](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib22), [23](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib23), [24](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib24)\].
 -   A [meta-analysis](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib25) confirmed early oral feeding is feasible and reduces length of stay.
@@ -185,7 +185,7 @@ Use a **low-fat, soft oral diet** when restarting feeding in patients with **mil
 
 When **oral feeding is not tolerated**, prioritize [**enteral nutrition**](https://www.sciencedirect.com/topics/medicine-and-dentistry/parenteral-nutrition) over parenteral nutrition in **acute pancreatitis (AP)**.
 
-**(R4, grade A, strong consensus, 97 %)**
+*(R4, grade A, strong consensus, 97 %)*
 
 -   **Physiological Benefits of EN:**
     -   Preserves [gut mucosa](https://www.sciencedirect.com/topics/medicine-and-dentistry/mucosa) integrity.
@@ -231,7 +231,7 @@ Você está acompanhando um paciente internado com diagnóstico de pancreatite a
 
 [**Enteral nutrition**](https://www.sciencedirect.com/topics/medicine-and-dentistry/enteric-feeding) **should be started early, within 24–72 h of admission, in case of intolerance to oral feeding.**
 
-**(R5, grade B, strong consensus, 92 %)**
+*(R5, grade B, strong consensus, 92 %)*
 
 -   **Meta-Analyses Findings:**. Early EN within **24h** \[[41](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib41), [42](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib42), [43](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib43)\] or **48h** \[[44](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib44), [45](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib45), [46](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib46)\] is:
     -   **Safe, well-tolerated, and beneficial.**
@@ -252,7 +252,7 @@ Você está acompanhando um paciente internado com diagnóstico de pancreatite a
 
 Use a **standard polymeric formula** for enteral nutrition in **acute pancreatitis** patients.
 
-**(R6, grade A, strong consensus, 97 %)**
+*(R6, grade A, strong consensus, 97 %)*
 
 -   [Semi-elemental](https://www.sciencedirect.com/topics/medicine-and-dentistry/malabsorption) and **polymeric formulas** are **safe, feasible, and well-tolerated** in AP patients.
     -   Small RCT (30 patients) found both formulas effective, but **semi-elemental** diets showed:
@@ -270,7 +270,7 @@ Use a **standard polymeric formula** for enteral nutrition in **acute pancreatit
 1.  If EN is required in patients with AP, use a **nasogastric tube**.
 2.  A **nasojejunal tube** is preferred in case of *digestive intolerance* (e.g., pain, vomiting).
 
-**(R7, grade B, strong consensus, 95 %)**
+*(R7, grade B, strong consensus, 95 %)*
 
 -   **3 RCTs** \[[52](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib52), [53](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib53), [54](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib54)\] found **no differences** between nasogastric and nasojejunal routes in (1) **tolerance**, (2) **complications**, and (3) **mortality**.
 -   **4 meta-analyses** \[[55](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib55), [56](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib56), [57](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib57), [58](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib58)\] confirm:
@@ -324,7 +324,7 @@ Fig. 2. Management of mild to moderate acute pancreatitis. AP, acute pancreatiti
 -   **Cannot meet nutritional targets via EN.**
 -   **Have contraindications for EN.**
 
-**(R8, grade GPP, strong consensus, 97 %)**
+*(R8, grade GPP, strong consensus, 97 %)*
 
 -   **Rationale:**
     -   **EN is the preferred route** due to superior outcomes.\
@@ -339,68 +339,79 @@ Fig. 2. Management of mild to moderate acute pancreatitis. AP, acute pancreatiti
 
 ### Recomendation 10: Glutamine in PN
 
-**When enteral nutrition is not feasible or contraindicated and parenteral nutrition is indicated, parenteral glutamine should be supplemented at 0.20 g/kg per day of l-glutamine. Otherwise, there is no role for immunonutrition in severe acute pancreatitis.**
+1.  When **EN is not feasible** and **PN is indicated**, parenteral glutamine should be supplemented at **0.20 g/kg/day of L-glutamine**.
+2.  **No role for other forms of immunonutrition** in severe AP.
 
-**(R16, grade B, strong consensus, 94 %)**
+*(R16, grade B, strong consensus, 94 %)*
 
--   **Recommendation:**
-    -   When **EN is not feasible** and **PN is indicated**, add **parenteral glutamine** at **0.20 g/kg/day of L-glutamine**.\
-    -   **No role for other forms of immunonutrition** in severe AP.\
-    -   (**Grade B, strong consensus, 94%**)
--   **Evidence Summary:**
-    -   **Initial meta-analysis (11 RCTs)**:
-        -   Mixed results for antioxidants; benefits mainly from **glutamine** \[[60](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib60)\].
-    -   **Cochrane Review:**
-        -   Very low-quality evidence — **no effect on mortality** \[[61](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib61)\].
-    -   **Glutamine-specific meta-analyses:**
-        -   **4 meta-analyses** consistently showed:
-            -   Reduced **infection rates** and **mortality**.\
-            -   Benefits observed **only with PN**, not EN \[[62](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib62), [63](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib63), [64](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib64)\].
-        -   Improved [serum albumin](https://www.sciencedirect.com/topics/medicine-and-dentistry/serum-albumin) and reduced C-reactive protein.
--   **Limitations:**
-    -   High **risk of bias** due to:
-        -   **Small sample sizes**.\
-        -   **Study heterogeneity**.\
-        -   **Confounding factors**.
+-   **Initial meta-analysis (11 RCTs)**:
+    -   Mixed results for antioxidants; benefits mainly from **glutamine** \[[60](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib60)\].
+-   **Cochrane Review:**
+    -   Very low-quality evidence — **no effect on mortality** \[[61](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib61)\].
+-   **Glutamine-specific meta-analyses - 4 meta-analyses** consistently showed:
+    -   Reduced **infection rates** and **mortality**.\
+    -   Benefits observed **only with PN**, NOT enteral nutrition \[[62](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib62), [63](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib63), [64](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib64)\].
+    -   Improved [serum albumin](https://www.sciencedirect.com/topics/medicine-and-dentistry/serum-albumin) and reduced C-reactive protein.
+-   **Limitations:**. High **risk of bias** due to:
+    -   **Small sample sizes**.\
+    -   **Study heterogeneity**.\
+    -   **Confounding factors**.
 
 ### Recomendation 11: Probiotics NOT recommended
 
-[**Probiotics**](https://www.sciencedirect.com/topics/medicine-and-dentistry/probiotic-agent) **cannot be recommended in patients with severe acute pancreatitis.**
+[**Probiotics**](https://www.sciencedirect.com/topics/medicine-and-dentistry/probiotic-agent) **are contraindicated in patients with severe acute pancreatitis** due to lack of benefit and potential harm.
 
-**(R17, grade 0, consensus, 89 %)**
+*(R17, grade 0, consensus, 89 %)*
 
--   **Recommendation:** **Probiotics are contraindicated in severe AP** due to lack of benefit and potential harm.
--   **Evidence Summary:**
-    -   Meta-analysis of **6 RCTs (536 patients)** showed **no benefit** on:
-        -   Pancreatic infection rates\
-        -   Overall infections\
-        -   Operation rates\
-        -   Hospital stay\
-        -   Mortality \[[65](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib65)\].
-    -   **Significant heterogeneity** in:
-        -   Strain types\
-        -   Dosages\
-        -   Treatment durations
-    -   One RCT reported **increased mortality** in the probiotic group despite similar infection rates \[[66](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib66)\].
+-   Meta-analysis of **6 RCTs (536 patients)** showed **no benefit of probiotics** on:
+    -   Pancreatic infection rates\
+    -   Overall infections\
+    -   Operation rates\
+    -   Hospital stay\
+    -   Mortality \[[65](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib65)\].
+-   **Significant heterogeneity** in:
+    -   Strain types\
+    -   Dosages\
+    -   Treatment durations
+-   One RCT reported **increased mortality** in the probiotic group despite similar infection rates \[[66](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib66)\].
 
 ### Recomendation 12: Pancreatic enzymes NOT recommended
 
-[**Pancreatic enzymes**](https://www.sciencedirect.com/topics/medicine-and-dentistry/pancreas-enzyme) **should not be supplemented generally except in patients with obvious [pancreatic exocrine insufficiency](https://www.sciencedirect.com/topics/medicine-and-dentistry/exocrine-pancreatic-insufficiency).**
+[**Pancreatic enzymes**](https://www.sciencedirect.com/topics/medicine-and-dentistry/pancreas-enzyme) **should not be supplemented generally** except in patients with obvious [**pancreatic exocrine insufficiency (PEI)**](https://www.sciencedirect.com/topics/medicine-and-dentistry/exocrine-pancreatic-insufficiency).
 
-**(R18, grade B, strong consensus, 97 %)**
+*(R18, grade B, strong consensus, 97 %)*
 
--   **Evidence Summary:**
-    -   Only **2 small RCTs (78 patients total)**:
-        -   **Kahl et al.**:
-            -   20/56 had low fecal [elastase](https://www.sciencedirect.com/topics/medicine-and-dentistry/elastase) (indicating PEI).
-            -   Slight improvement with enzymes, **not statistically significant** \[[67](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib67)\].\
-        -   **Patankar et al.**:
-            -   **No significant difference** in lab or clinical outcomes \[[68](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib68)\].
+-   Only **2 small RCTs (78 patients total)**:
+    -   **Kahl et al.**:
+        -   20/56 had low fecal [elastase](https://www.sciencedirect.com/topics/medicine-and-dentistry/elastase) indicating PEI.
+        -   Slight improvement with enzymes, **not statistically significant** \[[67](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib67)\].\
+    -   **Patankar et al.**:
+        -   **No significant difference** in lab or clinical outcomes \[[68](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib68)\].
 -   **Clinical Guidance:**
     -   **Do not prescribe enzymes routinely.**\
     -   Indicated only if:
         -   **Documented PEI.**\
         -   **Malabsorption with [steatorrhea](https://www.sciencedirect.com/topics/medicine-and-dentistry/steatorrhea).**
+
+### Questão 4
+
+Durante a discussão de um caso de pancreatite aguda grave na UTI, um colega sugere intervenções nutricionais e terapêuticas diversas. Com base nas diretrizes e nas evidências científicas disponíveis, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A nutrição parenteral deve ser iniciada em todos os pacientes com pancreatite aguda grave, independentemente da tolerância à via enteral.
+2.  A suplementação de glutamina na nutrição parenteral pode ser benéfica, reduzindo infecções e mortalidade, mas não há benefícios da sua suplementação se o paciente estiver recebendo nutrição enteral exclusiva.
+3.  Probióticos são indicados para pacientes com pancreatite aguda grave, pois reduzem infecções e tempo de internação.
+4.  A suplementação de enzimas pancreáticas é considerada suporte nutricional padrão em pacientes com pancreatite aguda grave.
+5.  A nutrição parenteral está indicada quando não é possível atingir as metas nutricionais por via enteral, ou quando há contraindicações do uso da via enteral, como obstrução intestinal ou isquemia mesentérica.
+
+### Questão 4
+
+Durante a discussão de um caso de pancreatite aguda grave na UTI, um colega sugere intervenções nutricionais e terapêuticas diversas. Com base nas diretrizes e nas evidências científicas disponíveis, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A nutrição parenteral deve ser iniciada em todos os pacientes com pancreatite aguda grave, independentemente da tolerância à via enteral. (Incorreta)
+2.  A suplementação de glutamina na nutrição parenteral pode ser benéfica, reduzindo infecções e mortalidade, mas não há benefícios da sua suplementação se o paciente estiver recebendo nutrição enteral exclusiva. (Correta)
+3.  Probióticos são indicados para pacientes com pancreatite aguda grave, pois reduzem infecções e tempo de internação. (Incorreta)
+4.  A suplementação de enzimas pancreáticas é considerada suporte nutricional padrão em pacientes com pancreatite aguda grave. (Incorreta)
+5.  A nutrição parenteral está indicada quando não é possível atingir as metas nutricionais por via enteral, ou quando há contraindicações do uso da via enteral, como obstrução intestinal ou isquemia mesentérica. (Correta)
 
 ### Fig. 3. Management of severe pancreatitis
 
@@ -412,36 +423,30 @@ Fig. 3. Management of severe [pancreatitis](https://www.sciencedirect.com/topics
 
 ## 3.3. Severe Acute pancreatitis with Necrosectomy
 
-### Recomendation 13: Oral feeding with low fat soft diet after minimally invasive necrosectomy
+### Recomendation 13: Early Oral Feeding After Minimally Invasive Necrosectomy
 
-**Oral food intake in patients undergoing minimally invasive necrosectomy is safe and feasible and should be initiated in the first 24 h after the procedure, if the clinical state (hemodynamic stability, septic parameters, gastric emptying) of the patient allows it.**
+**Oral food intake is safe and feasible** post-procedure and should be started within 24 hours if: - Hemodynamic stability is maintained - No signs of sepsis or gastric emptying issues are present
 
 **(R9, grade GPP, strong consensus, 95 %)**
 
--   **Clinical Context:**
-    -   Patients with [**acute necrotizing pancreatitis (ANP)**](https://www.sciencedirect.com/topics/medicine-and-dentistry/acute-hemorrhagic-pancreatitis) have higher risks of:
-        -   **Multiple organ failure**\
-        -   **Infected necrosis**\
-        -   **Mortality** \[[69](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib69)\].
--   **Surgical Advances:**
-    -   [**Minimally invasive techniques**](https://www.sciencedirect.com/topics/medicine-and-dentistry/minimally-invasive-procedure) (step-up approach) are now standard, replacing open surgery due to better outcomes \[[70](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib70), [71](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib71)\].
--   **Nutritional Approach:**
-    -   In a comparative trial \[[72](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib72)\]:
-        -   **Oral nutrition** was attempted first.\
-        -   If not tolerated → **nasojejunal EN**.\
-        -   If EN contraindicated → **parenteral nutrition (PN)**.
--   **Conclusion:**
-    -   Early oral feeding is **safe and feasible** following minimally invasive necrosectomy, when clinically appropriate.
+-   Patients with [**acute necrotizing pancreatitis (ANP)**](https://www.sciencedirect.com/topics/medicine-and-dentistry/acute-hemorrhagic-pancreatitis) have higher risks of:
+    -   **Multiple organ failure**
+    -   **Infected necrosis**
+    -   **Mortality** \[[69](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib69)\].
+-   **Surgical Advances:** [**Minimally invasive techniques**](https://www.sciencedirect.com/topics/medicine-and-dentistry/minimally-invasive-procedure) (step-up approach) are now standard, replacing open surgery due to better outcomes \[[70](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib70), [71](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib71)\].
+-   **Nutritional Approach** - In a comparative trial: \[[72](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib72)\]:
+    -   **Oral nutrition** was attempted first.
+    -   If not tolerated → **nasojejunal EN**.
+    -   If EN contraindicated → **parenteral nutrition (PN)**.
+    -   **Conclusion:** Early oral feeding is **safe and feasible** following minimally invasive necrosectomy, when clinically appropriate.
 
-### Recomendation 14: EN in case of intolerance to oral feeding or insufficiency of oral feeding
+### Recomendation 14: EN After Necrosectomy in oral feeding intolerance/insufficiency
 
-**In patients undergoing minimally invasive necrosectomy who are unable to be fed orally, EN is indicated via nasojejunal as preferred route.**
+In patients **unable to tolerate oral feeding** after minimally invasive necrosectomy, use **enteral nutrition (EN) via nasojejunal tube** as the **preferred route**.
 
-**(R10, grade B, strong consensus, 91 %)**
+*(R10, grade B, strong consensus, 91 %)*
 
--   In patients **unable to tolerate oral feeding** after minimally invasive necrosectomy, use **enteral nutrition (EN) via nasojejunal tube** as the **preferred route**.
--   **Evidence Summary:**
-    -   Supported by small series and trials showing that **nasojejunal feeding is safe and feasible**.
+-   Supported by small series and trials showing that **nasojejunal feeding is safe and feasible**.
     -   **RCT by Bakker et al.** \[[43](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib43)\]:
         -   No difference in outcomes between **early EN (nasojejunal within 24h)** and **oral feeding after 72h**.
         -   Included various procedures: percutaneous drainage, endoscopic/surgical necrosectomy.
@@ -455,33 +460,71 @@ Fig. 3. Management of severe [pancreatitis](https://www.sciencedirect.com/topics
 
 ### Recomendation 15: Complementary or exclusive PN in case of intolerance to EN
 
-**Parenteral nutrition is indicated in patients undergoing minimally invasive necrosectomy who do not tolerate EN or who are unable to tolerate targeted nutritional requirements, or if there exist contraindications for enteral nutrition.**
+**Parenteral nutrition (PN)** is indicated for patients after **minimally invasive necrosectomy** when: - **Enteral nutrition (EN) is not tolerated.** - EN does not meet **nutritional targets.** - **Contraindications to EN** are present.
 
-**(R11, grade GPP, strong consensus, 94 %)**
+*(R11, grade GPP, strong consensus, 94 %)*
 
--   **Recommendation:**
-    -   **Parenteral nutrition (PN)** is indicated for patients after **minimally invasive necrosectomy** when:
-        -   **Enteral nutrition (EN) is not tolerated.**\
-        -   EN does not meet **nutritional targets.**\
-        -   **Contraindications to EN** are present.\
-    -   (**Grade GPP, strong consensus, 94%**)
 -   **Clinical Insight:**
-    -   Consistent with previous recommendations (**10 and 11**).\
-    -   PN is a **backup strategy**, not the first choice.\
+    -   Consistent with previous recommendations (**10 and 11**).
+    -   PN is a **backup strategy**, not the first choice.
     -   Use PN to ensure **adequate nutritional support** when EN is not feasible or fails.
 -   **Conclusion:**
-    -   In post-necrosectomy patients, **PN is essential if EN is not possible** to meet the patient's metabolic and recovery needs.
+    -   In post-necrosectomy patients, **PN is indicated if EN is not possible** to meet the patient's metabolic and recovery needs.
 
-### Recomendation 16: Intra-abdominal pressure monitoring
+### Questão 5
 
-**In patients with severe acute pancreatitis and intra-abdominal pressure \< 15 mmHg, early enteral nutrition shall be initiated via nasojejunal, as the preferred route, or nasogastric tube. Intra-abdominal pressure and the clinical condition of patients during enteral nutrition shall be monitored continuously.**
+Durante a evolução de um paciente com pancreatite aguda necrosante submetido a necrosectomia minimamente invasiva, você deve planejar sua estratégia de suporte nutricional. Com base nas recomendações mais recentes, quais das alternativas abaixo estão corretas? *(Selecione todas as corretas)*
+
+1.  A introdução da alimentação oral pode ser considerada dentro de 24 horas após a necrosectomia, desde que o paciente esteja hemodinamicamente estável e sem sinais de sepse ou distúrbios do esvaziamento gástrico. (Correta)
+2.  A nutrição parenteral é preferida à enteral nos primeiros dias após necrosectomia devido à alta frequência de intolerância e risco infeccioso. (Incorreta)
+3.  Em caso de intolerância à via oral após a necrosectomia, a nutrição enteral deve ser iniciada precodemente por via nasogástrica, e a via nasojejunal é indicada em caso de falha na via nasogástrica. (Incorreta)
+4.  A nutrição parenteral pode ser utilizada como complemento ou substituto caso a nutrição enteral não seja tolerada, não atinja as metas calóricas ou esteja contraindicada. (Correta)
+5.  A escolha da via nutricional após necrosectomia deve seguir uma abordagem escalonada: oral → enteral (nasojejunal) → parenteral, conforme tolerância e condição clínica. (Correta)
+
+### Questão 5
+
+Durante a evolução de um paciente com pancreatite aguda necrosante submetido a necrosectomia minimamente invasiva, você deve planejar sua estratégia de suporte nutricional. Com base nas recomendações mais recentes, quais das alternativas abaixo estão corretas? *(Selecione todas as corretas)*
+
+1.  A introdução da alimentação oral pode ser considerada dentro de 24 horas após a necrosectomia, desde que o paciente esteja hemodinamicamente estável e sem sinais de sepse ou distúrbios do esvaziamento gástrico. (Correta)
+2.  A nutrição parenteral é preferida à enteral nos primeiros dias após necrosectomia devido à alta frequência de intolerância e risco infeccioso. (Incorreta)
+3.  Em caso de intolerância à via oral após a necrosectomia, a nutrição enteral deve ser iniciada precodemente por via nasogástrica, e a via nasojejunal é indicada em caso de falha na via nasogástrica. (Incorreta)
+4.  A nutrição parenteral pode ser utilizada como complemento ou substituto caso a nutrição enteral não seja tolerada, não atinja as metas calóricas ou esteja contraindicada. (Correta)
+5.  A escolha da via nutricional após necrosectomia deve seguir uma abordagem escalonada: oral → enteral (nasojejunal) → parenteral, conforme tolerância e condição clínica. (Correta)
+
+## Intra-abdominal hypertension
+
+### Intra-abdominal Hypertension (IAH)
+
+-   **Normal IAP** in critically ill patients is typically \~5–7 mmHg.
+
+-   **IAH** is defined as a **sustained IAP ≥12 mmHg**.
+
+-   **Abdominal Compartment Syndrome (ACS)** is defined as:
+
+    1.  **sustained IAP \>20 mmHg** and
+    2.  **new organ dysfunction/failure**.
+
+| **Grade** | **Intra-abdominal Pressure (IAP)** |
+|-----------|------------------------------------|
+| Grade I   | 12–15 mmHg                         |
+| Grade II  | 16–20 mmHg                         |
+| Grade III | 21–25 mmHg                         |
+| Grade IV  | \>25 mmHg                          |
+
+::: smaller
+Source: World Society of the Abdominal Compartment Syndrome (WSACS)
+:::
+
+### Recomendation 16: Intra-abdominal pressure \< 15 mmHg
+
+For patients with **severe acute pancreatitis (AP)** and **intra-abdominal pressure (IAP) \<15 mmHg**:
+
+-   **Early enteral nutrition (EN)** should be initiated.
+-   **Nasojejunal tube** is preferred, but **nasogastric** is acceptable.
+-   **Monitor IAP and clinical status continuously** during EN.
 
 **(R12, grade A, strong consensus, 91 %)**
 
--   For patients with **severe acute pancreatitis (AP)** and **intra-abdominal pressure (IAP) \<15 mmHg**:
-    -   **Early enteral nutrition (EN)** should be initiated.
-    -   **Nasojejunal tube** is preferred, but **nasogastric** is acceptable.
-    -   **Monitor IAP and clinical status continuously** during EN.\
 -   **Rationale and Evidence:**
     -   While EN reduces mortality and infections, it may elevate **IAP**, risking [**abdominal compartment syndrome (ACS)**](https://www.sciencedirect.com/topics/medicine-and-dentistry/compartment-syndrome) \[[73](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib73), [74](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib74)\].
     -   Observational study (274 patients):
@@ -495,14 +538,14 @@ Fig. 3. Management of severe [pancreatitis](https://www.sciencedirect.com/topics
 
 ### Recomendation 17: EN in Severe AP with IAP \>15 mmHg
 
-**In patients with severe acute pancreatitis and intra-abdominal pressure \> 15 mmHg, enteral nutrition should be initiated via nasojejunal route starting at 20 mL/h, increasing the rate according to the tolerance. Temporary reduction or discontinuation of enteral nutrition should be considered when intra-abdominal pressure values further increase under enteral nutrition.**
+In patients with **severe acute pancreatitis (AP)** and **intra-abdominal pressure (IAP) \>15 mmHg**:
 
-**(R13, grade B, strong consensus, 94 %)**
+-   Start **enteral nutrition (EN) via nasojejunal tube** at **20 mL/h**.
+-   Gradually **increase the rate based on tolerance and IAP measurements**.
+-   Consider **temporary reduction or discontinuation** if IAP increases during EN.
 
--   In patients with **severe acute pancreatitis (AP)** and **intra-abdominal pressure (IAP) \>15 mmHg**:
-    -   Start **enteral nutrition (EN) via nasojejunal tube** at **20 mL/h**.
-    -   Gradually **increase the rate based on tolerance and IAP measurements**.
-    -   Consider **temporary reduction or discontinuation** if IAP increases during EN.
+*(R13, grade B, strong consensus, 94 %)*
+
 -   **Clinical Rationale:**
     -   Patients with **intra-abdominal hypertension (IAH)** frequently exhibit **digestive intolerance**.
     -   **Cautious initiation** of EN is critical:
@@ -513,33 +556,28 @@ Fig. 3. Management of severe [pancreatitis](https://www.sciencedirect.com/topics
 
 ### Recomendation 18: PN in Severe AP with IAP \>20 mmHg or ACS
 
-**In patients with severe acute pancreatitis and intra-abdominal pressure \> 20 mmHg or in the presence of acute compartment syndrome, enteral nutrition should be (temporarily) stopped and parenteral nutrition should be initiated.**
+In patients with **severe acute pancreatitis (AP)** and **intra-abdominal pressure (IAP) \>20 mmHg** or abdominal compartment syndrome (ACS):
 
-**(R14, grade GPP, strong consensus, 94 %)**
+-   **Stop enteral nutrition (EN) temporarily**.
+-   **Initiate total parenteral nutrition (PN)**.
 
--   **Recommendation:**
-    -   In patients with **severe acute pancreatitis (AP)** and:
-        -   **Intra-abdominal pressure (IAP) \>20 mmHg**, or\
-        -   [**Abdominal compartment syndrome (ACS)**](https://www.sciencedirect.com/topics/medicine-and-dentistry/compartment-syndrome) →\
-    -   **Stop enteral nutrition (EN) temporarily**.\
-    -   **Initiate total parenteral nutrition (PN)**.\
-    -   (**Grade GPP, strong consensus, 94%**)
+*(R14, grade GPP, strong consensus, 94 %)*
+
 -   **Clinical Rationale:**
-    -   **IAP \>20 mmHg** or ACS presents **critical risk** where EN may worsen the condition.\
+    -   **IAP \>20 mmHg** or ACS presents **critical risk** where EN may worsen the condition.
     -   Switching to **PN prevents further pressure elevation and complications** \[[74](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib74)\].
 -   **Conclusion:**
     -   In severe AP with critically high IAP or ACS, **EN must be interrupted**, and **PN is mandatory** until IAP improves.
 
 ### Recomendation 19: Severe AP with Open abdomen
 
-**In patients with severe acute pancreatitis and open abdomen, enteral nutrition should be administered, at least in a small amount. If required for achievement of nutritional requirements, supplementary or total parenteral nutrition should be added.**
+In patients with **severe acute pancreatitis (AP)** and an **open abdomen**:
 
-**(R15, grade B, strong consensus, 97 %)**
+-   **Enteral nutrition (EN)** should be administered, **at least in small amounts**.
+-   Use **supplementary or total parenteral nutrition (PN)** if EN alone does not meet nutritional needs.
 
--   **Recommendation:**
-    -   In patients with **severe acute pancreatitis (AP)** and an **open abdomen**:
-        -   **Enteral nutrition (EN)** should be administered, **at least in small amounts**.\
-        -   Use **supplementary or total parenteral nutrition (PN)** if EN alone does not meet nutritional needs.
+*(R15, grade B, strong consensus, 97 %)*
+
 -   **Clinical Rationale:**
     -   **Decompressive laparotomy (laparostomy)** is required in up to **74% of patients with [abdominal compartment syndrome (ACS)](https://www.sciencedirect.com/topics/medicine-and-dentistry/compartment-syndrome)** during AP \[[78](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib78)\].
     -   **Cohort studies** show EN is generally **feasible and safe**, though **digestive intolerance rates range from 48% to 67%** \[[79](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib79)–[84](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib84)\].
@@ -548,8 +586,29 @@ Fig. 3. Management of severe [pancreatitis](https://www.sciencedirect.com/topics
         -   **Lower [fistula](https://www.sciencedirect.com/topics/medicine-and-dentistry/fistula) rates.**\
         -   **Reduced nosocomial infections.**\
         -   **Lower hospital costs** \[[83](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib83), [84](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib84)\].
--   **Conclusion:**
-    -   Even in the presence of an open abdomen, **EN should be maintained whenever possible**, supported by PN if needed, due to significant clinical benefits.
+-   **Conclusion:** Even in the presence of an open abdomen, **EN should be maintained whenever possible**, supported by PN if needed, due to significant clinical benefits.
+
+### Questão 6
+
+Você acompanha um paciente com pancreatite aguda grave internado na UTI, cuja pressão intra-abdominal (PIA) é monitorada regularmente. Com base nas evidências atuais sobre nutrição em pacientes com PIA elevada ou abdome aberto, quais das afirmações a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  Quando a PIA está abaixo de 15 mmHg, a nutrição enteral deve ser iniciada precocemente, com monitoramento contínuo da PIA.
+2.  Em pacientes com PIA \>15 mmHg, a nutrição enteral deve ser suspensa imediatamente e substituída por nutrição parenteral total.
+3.  A introdução cautelosa da NE por via nasojejunal, iniciando a 20 mL/h, é recomendada em pacientes com PIA \>15 mmHg, desde que monitorada adequadamente.
+4.  A presença de síndrome compartimental abdominal (ACS) ou PIA \>20 mmHg contraindica a continuação da NE, devendo-se iniciar PN.
+5.  Mesmo em pacientes com abdome aberto por laparostomia descompressiva, é recomendado iniciar NE, mesmo que em pequenas quantidades, complementada por PN se necessário.
+6.  A presença de abdome aberto contraindica o uso de nutrição enteral devido ao risco elevado de fístulas e infecções.
+
+### Questão 6
+
+Você acompanha um paciente com pancreatite aguda grave internado na UTI, cuja pressão intra-abdominal (PIA) é monitorada regularmente. Com base nas evidências atuais sobre nutrição em pacientes com PIA elevada ou abdome aberto, quais das afirmações a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  Quando a PIA está abaixo de 15 mmHg, a nutrição enteral deve ser iniciada precocemente, com monitoramento contínuo da PIA. (Correta)
+2.  Em pacientes com PIA \>15 mmHg, a nutrição enteral deve ser suspensa imediatamente e substituída por nutrição parenteral total. (Incorreta)
+3.  A introdução cautelosa da NE por via nasojejunal, iniciando a 20 mL/h, é recomendada em pacientes com PIA \>15 mmHg, desde que monitorada adequadamente. (Correta)
+4.  A presença de síndrome compartimental abdominal (ACS) ou PIA \>20 mmHg contraindica a continuação da NE, devendo-se iniciar PN. (Correta)
+5.  Mesmo em pacientes com abdome aberto por laparostomia descompressiva, é recomendado iniciar NE, mesmo que em pequenas quantidades, complementada por PN se necessário. (Correta)
+6.  A presença de abdome aberto contraindica o uso de nutrição enteral devido ao risco elevado de fístulas e infecções. (Incorreta)
 
 ### Fig. 4 Management of Severe Acute pancreatitis with Necrosectomy
 
@@ -562,3 +621,4 @@ ACS, abdominal compartement syndrome; AP, acute pancreatitis; EN, enteral nutrit
 ### References
 
 1.  [ESPEN practical guideline on clinical nutrition in acute and chronic pancreatitis](https://www.clinicalnutritionjournal.com/article/S0261-5614(23)00459-4/). Arvanitakis, Marianna et al. Clinical Nutrition, Volume 43, Issue 2, 395 - 412.
+2.  World Society of the Abdominal Compartment Syndrome (WSACS)
