@@ -1,0 +1,70 @@
+---
+title: "Teaching Repository"
+subtitle: "Nutrology / Clinical Nutrition"
+date: today
+institute: "Ribeirão Preto Medical School, University of São Paulo"
+author: "Gustavo Santos Paiva Laender Moura"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    number-sections: true
+    css: styles.css
+    page-layout: full
+website:
+  title: "Teaching Repository – Nutrology / Clinical Nutrition"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Pancreatitis/Acute_pancreatitis.html
+        text: Acute Pancreatitis
+      - href: Pancreatitis/Chronic_pancreatitis.html
+        text: Chronic Pancreatitis
+      - href: Pancreatitis/ESPEN_original.qmd
+        text: ESPEN
+    right:
+      - icon: github
+        href: https://github.com/gsplmoura/Aulas
+  page-footer:
+    center: "© 2025 Gustavo S. P. L. Moura – Built with Quarto"
+    right: "[GitHub](https://github.com/gsplmoura)"
+---
+
+# Welcome
+
+This is the teaching repository. Here you'll find:
+
+- 📖 Lecture notes and text summaries
+- 🎯 Slide presentations (RevealJS)
+- 📄 Supplemental documents and references
+
+---
+
+## 📂 Available Classes
+
+### 🩺 Acute Pancreatitis
+
+- 👉 [Slides – Acute Pancreatitis](Pancreatitis/Acute_pancreatitis.html)
+- 👉 [Lecture Text – Acute Pancreatitis](Pancreatitis/Acute_pancreatitis.qmd)
+
+### 🧠 Chronic Pancreatitis
+
+- 👉 [Slides – Chronic Pancreatitis](Pancreatitis/Chronic_pancreatitis.html)
+- 👉 [Lecture Text – Chronic Pancreatitis](Pancreatitis/Chronic_pancreatitis.qmd)
+
+---
+
+## 🔗 Resources
+
+- 🏛️ [ESPEN Official Website](https://www.espen.org/)
+- 📑 [Clinical Nutrition Journal](https://www.sciencedirect.com/journal/clinical-nutrition)
+
+---
+
+## 🚀 How to Navigate
+
+Use the menu above or the links on this page to navigate to the specific lectures and materials.
+
+> This website is automatically generated with [Quarto](https://quarto.org) and hosted on GitHub Pages.
