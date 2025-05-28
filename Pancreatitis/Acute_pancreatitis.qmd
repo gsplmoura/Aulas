@@ -1,9 +1,9 @@
 ---
 title: "ESPEN practical guideline on clinical nutrition in ACUTE pancreatitis"
 subtitle: "[Arvanitakis. M, et al. Clinical Nutrition, February 2024](https://www.sciencedirect.com/science/article/pii/S0261561423004594)"
-author: "Gustavo Santos Paiva Laender Moura"
+author: "Gustavo Santos Paiva Laender Moura</br>[**Github pages**](https://gsplmoura.github.io/Aulas/)"
 email: "gsplmoura@usp.br"
-affiliation: "Ribeirão Preto Medical School, University of São Paulo"
+institute: "Ribeirão Preto Medical School, University of São Paulo"
 date: today
 citation:
   container-title: "Clinical Nutrition"
@@ -14,16 +14,19 @@ citation:
   doi: "10.1016/j.clnu.2023.12.019"
 format: 
   revealjs:
-    css: ../styles.css
-    smaller: true
+    theme: [sky, ../styles.scss]
+    #smaller: true
+    logo: ../usp.png
     scrollable: true
     slide-level: 3
     slide-number: true
+    footnotes-hover: true
+    footer: "[**Github pages**](https://gsplmoura.github.io/Aulas/)"
+    chalkboard: true
     title-slide-attributes: 
-      data-background-color: "#003366"
       data-background-image: ../logo.png
-      data-background-position: bottom right
-      data-background-size: 100px
+      data-background-position: top right
+      data-background-size: 120px
   html:
     page-layout: full
     toc: true
@@ -31,11 +34,10 @@ format:
     toc-float:
       collapsed: false
       smooth-scroll: true
-    css: ../styles.css
     code-fold: false
 ---
 
-## 1. Introduction {background-color="#003366"}
+## 1. Introduction
 
 ### Acute pancreatitis (AP)
 
@@ -53,7 +55,7 @@ format:
     -   Optimal **timing**, **route**, and **type** of EN.
     -   Role of **oral refeeding** still under investigation.
 
-## 2. Methodology Overview {background-color="#003366"}
+## 2. Methodology Overview
 
 -   **Content:**
     -   42 recommendations (19 for acute and 23 for chronic pancreatitis)
@@ -65,13 +67,7 @@ format:
 -   **Consensus:**
     -   Achieved through a multistage process with % agreement recorded.
 
-## 3. Acute pancreatitis {background-color="#003366"}
-
-### Fig. 1 Nutritional management of acute pancreatitis
-
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0261561423004594-gr1_lrg.jpg)
-
-Fig. 1. Nutritional [management of acute pancreatitis](https://www.sciencedirect.com/topics/medicine-and-dentistry/management-of-acute-pancreatitis). AP, acute pancreatitis.
+## 3. Acute pancreatitis
 
 ### Recomendation 1 (Nutritional risk)
 
@@ -91,13 +87,15 @@ Fig. 1. Nutritional [management of acute pancreatitis](https://www.sciencedirect
     -   **Malnourished patients**, even with mild AP, due to pre-existing deficits.
     -   **Patients with high alcohol consumption**, often chronically malnourished.
 
-## 3.1. Mild to moderate disease {background-color="#003366"}
+### Fig. 1 Nutritional management of acute pancreatitis
 
-### Fig. 2. Management of mild to moderate acute pancreatitis.
+![](img/gr1_lrg.png)
 
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0261561423004594-gr2_lrg.jpg)
+::: smaller
+Fig. 1. Nutritional [management of acute pancreatitis](https://www.sciencedirect.com/topics/medicine-and-dentistry/management-of-acute-pancreatitis). AP, acute pancreatitis.
+:::
 
-Fig. 2. Management of mild to moderate acute pancreatitis. AP, acute pancreatitis; EN, enteral nutrition; NRS-2002, Nutritional Risk Screening – 2002; PN, parenteral nutrition
+## 3.1. Mild to moderate disease
 
 ### Recomendation 2 (Nutritional Risk)
 
@@ -249,13 +247,15 @@ Early Oral Feeding in Mild to Moderate AP
 -   **Limitations:**
     -   Trials included **small sample sizes** and **varied definitions** of severe AP.
 
-## 3.2. Severe Acute pancreatitis {background-color="#003366"}
+### Fig. 2. Management of mild to moderate acute pancreatitis.
 
-### Fig. 3. Management of severe pancreatitis
+![](img/gr2_lrg.png)
 
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0261561423004594-gr3_lrg.jpg)
+::: smaller
+Fig. 2. Management of mild to moderate acute pancreatitis. AP, acute pancreatitis; EN, enteral nutrition; NRS-2002, Nutritional Risk Screening – 2002; PN, parenteral nutrition
+:::
 
-Fig. 3. Management of severe [pancreatitis](https://www.sciencedirect.com/topics/medicine-and-dentistry/pancreatitis). AP, acute pancreatitis; EN, enteral nutrition; PEI, pancreatic exocrine insufficiency; PN, parenteral nutrition.
+## 3.2. Severe Acute pancreatitis
 
 ### Recomendation 9: PN in case of intolerance of EN
 
@@ -344,13 +344,15 @@ Fig. 3. Management of severe [pancreatitis](https://www.sciencedirect.com/topics
         -   **Documented PEI.**\
         -   **Malabsorption with [steatorrhea](https://www.sciencedirect.com/topics/medicine-and-dentistry/steatorrhea).**
 
-## 3.3. Severe Acute pancreatitis with Necrosectomy {background-color="#003366"}
+### Fig. 3. Management of severe pancreatitis
 
-### Fig. 4 Management of Severe Acute pancreatitis with Necrosectomy
+![](img/gr3_lrg.png)
 
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0261561423004594-gr4_lrg.jpg)
+::: smaller
+Fig. 3. Management of severe [pancreatitis](https://www.sciencedirect.com/topics/medicine-and-dentistry/pancreatitis). AP, acute pancreatitis; EN, enteral nutrition; PEI, pancreatic exocrine insufficiency; PN, parenteral nutrition.
+:::
 
-ACS, abdominal compartement syndrome; AP, acute pancreatitis; EN, enteral nutrition; [IAP](https://www.sciencedirect.com/topics/medicine-and-dentistry/abdominal-pressure), intra-abdominal pressure; PN, parenteral nutrition.
+## 3.3. Severe Acute pancreatitis with Necrosectomy
 
 ### Recomendation 13: Oral feeding with low fat soft diet after minimally invasive necrosectomy
 
@@ -451,26 +453,24 @@ ACS, abdominal compartement syndrome; AP, acute pancreatitis; EN, enteral nutrit
 -   **Conclusion:**
     -   Careful, gradual EN delivery via **nasojejunal route** is recommended in severe AP with elevated IAP, with ongoing **IAP monitoring to guide adjustments**.
 
-### Recomendation 18: PN in Severe AP with IAP >20 mmHg or ACS
+### Recomendation 18: PN in Severe AP with IAP \>20 mmHg or ACS
 
-**In patients with severe acute pancreatitis and intra-abdominal pressure > 20 mmHg or in the presence of acute compartment syndrome, enteral nutrition should be (temporarily) stopped and parenteral nutrition should be initiated.**
+**In patients with severe acute pancreatitis and intra-abdominal pressure \> 20 mmHg or in the presence of acute compartment syndrome, enteral nutrition should be (temporarily) stopped and parenteral nutrition should be initiated.**
 
 **(R14, grade GPP, strong consensus, 94 %)**
 
-- **Recommendation:**  
-  - In patients with **severe acute pancreatitis (AP)** and:  
-    - **Intra-abdominal pressure (IAP) >20 mmHg**, or  
-    - **[Abdominal compartment syndrome (ACS)](https://www.sciencedirect.com/topics/medicine-and-dentistry/compartment-syndrome)** →  
-  - **Stop enteral nutrition (EN) temporarily**.  
-  - **Initiate total parenteral nutrition (PN)**.  
-  - (**Grade GPP, strong consensus, 94%**)
-
-- **Clinical Rationale:**  
-  - **IAP >20 mmHg** or ACS presents **critical risk** where EN may worsen the condition.  
-  - Switching to **PN prevents further pressure elevation and complications** \[[74](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib74)\].
-
-- **Conclusion:**  
-  - In severe AP with critically high IAP or ACS, **EN must be interrupted**, and **PN is mandatory** until IAP improves.
+-   **Recommendation:**
+    -   In patients with **severe acute pancreatitis (AP)** and:
+        -   **Intra-abdominal pressure (IAP) \>20 mmHg**, or\
+        -   [**Abdominal compartment syndrome (ACS)**](https://www.sciencedirect.com/topics/medicine-and-dentistry/compartment-syndrome) →\
+    -   **Stop enteral nutrition (EN) temporarily**.\
+    -   **Initiate total parenteral nutrition (PN)**.\
+    -   (**Grade GPP, strong consensus, 94%**)
+-   **Clinical Rationale:**
+    -   **IAP \>20 mmHg** or ACS presents **critical risk** where EN may worsen the condition.\
+    -   Switching to **PN prevents further pressure elevation and complications** \[[74](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib74)\].
+-   **Conclusion:**
+    -   In severe AP with critically high IAP or ACS, **EN must be interrupted**, and **PN is mandatory** until IAP improves.
 
 ### Recomendation 19: Severe AP with Open abdomen
 
@@ -478,20 +478,30 @@ ACS, abdominal compartement syndrome; AP, acute pancreatitis; EN, enteral nutrit
 
 **(R15, grade B, strong consensus, 97 %)**
 
-- **Recommendation:**  
-  - In patients with **severe acute pancreatitis (AP)** and an **open abdomen**:  
-    - **Enteral nutrition (EN)** should be administered, **at least in small amounts**.  
-    - Use **supplementary or total parenteral nutrition (PN)** if EN alone does not meet nutritional needs.  
+-   **Recommendation:**
+    -   In patients with **severe acute pancreatitis (AP)** and an **open abdomen**:
+        -   **Enteral nutrition (EN)** should be administered, **at least in small amounts**.\
+        -   Use **supplementary or total parenteral nutrition (PN)** if EN alone does not meet nutritional needs.
+-   **Clinical Rationale:**
+    -   **Decompressive laparotomy (laparostomy)** is required in up to **74% of patients with [abdominal compartment syndrome (ACS)](https://www.sciencedirect.com/topics/medicine-and-dentistry/compartment-syndrome)** during AP \[[78](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib78)\].
+    -   **Cohort studies** show EN is generally **feasible and safe**, though **digestive intolerance rates range from 48% to 67%** \[[79](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib79)–[84](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib84)\].
+    -   Two studies reported that early EN in open abdomen patients leads to:
+        -   **Higher fascial closure rates.**\
+        -   **Lower [fistula](https://www.sciencedirect.com/topics/medicine-and-dentistry/fistula) rates.**\
+        -   **Reduced nosocomial infections.**\
+        -   **Lower hospital costs** \[[83](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib83), [84](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib84)\].
+-   **Conclusion:**
+    -   Even in the presence of an open abdomen, **EN should be maintained whenever possible**, supported by PN if needed, due to significant clinical benefits.
 
-- **Clinical Rationale:**  
-  - **Decompressive laparotomy (laparostomy)** is required in up to **74% of patients with [abdominal compartment syndrome (ACS)](https://www.sciencedirect.com/topics/medicine-and-dentistry/compartment-syndrome)** during AP \[[78](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib78)\].
-  - **Cohort studies** show EN is generally **feasible and safe**, though **digestive intolerance rates range from 48% to 67%** \[[79](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib79)–[84](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib84)\].
-  - Two studies reported that early EN in open abdomen patients leads to:  
-    - **Higher fascial closure rates.**  
-    - **Lower [fistula](https://www.sciencedirect.com/topics/medicine-and-dentistry/fistula) rates.**  
-    - **Reduced nosocomial infections.**  
-    - **Lower hospital costs** \[[83](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib83), [84](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib84)\].
+### Fig. 4 Management of Severe Acute pancreatitis with Necrosectomy
 
-- **Conclusion:**  
-  - Even in the presence of an open abdomen, **EN should be maintained whenever possible**, supported by PN if needed, due to significant clinical benefits.
+![](img/gr4_lrg.png)
+
+::: smaller
+ACS, abdominal compartement syndrome; AP, acute pancreatitis; EN, enteral nutrition; [IAP](https://www.sciencedirect.com/topics/medicine-and-dentistry/abdominal-pressure), intra-abdominal pressure; PN, parenteral nutrition.
+:::
+
+### References
+
+1.  [ESPEN practical guideline on clinical nutrition in acute and chronic pancreatitis](https://www.clinicalnutritionjournal.com/article/S0261-5614(23)00459-4/). Arvanitakis, Marianna et al. Clinical Nutrition, Volume 43, Issue 2, 395 - 412.
 

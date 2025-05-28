@@ -549,4 +549,3 @@ PN is infrequently uses in patients with CP \[[4](https://www.sciencedirect.com/
 **Commentary**
 
 PN is mainly administered over a short-term period and long-term studies are lacking. In this case, a standard nutritional solution should be administered via central venous access such as a [peripherally inserted central catheter](https://www.sciencedirect.com/topics/medicine-and-dentistry/peripherally-inserted-central-catheter "Learn more about peripherally inserted central catheter from ScienceDirect's AI-generated Topic Pages"). Contraindications to PN do not differ from general contraindications to medical nutrition.
-
