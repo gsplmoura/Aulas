@@ -1,0 +1,14 @@
+.reveal .slides section:not([data-state="title"])::after {
+  content: "";
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  width: 100px;
+  height: auto;
+  background-image: url('../logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  opacity: 0.8;
+  z-index: 1000;
+}
