@@ -1,7 +1,7 @@
 ---
 title: "ESPEN practical guideline on clinical nutrition in ACUTE pancreatitis"
 subtitle: "[Arvanitakis. M, et al. Clinical Nutrition, February 2024](https://www.sciencedirect.com/science/article/pii/S0261561423004594)"
-author: "Gustavo Santos Paiva Laender Moura</br>[**Github pages**](https://gsplmoura.github.io/Aulas/)"
+author: "Gustavo Santos Paiva Laender Moura"
 email: "gsplmoura@usp.br"
 institute: "Ribeirão Preto Medical School, University of São Paulo"
 date: today
@@ -14,7 +14,7 @@ citation:
   doi: "10.1016/j.clnu.2023.12.019"
 format: 
   revealjs:
-    theme: [sky, ../styles.scss]
+    theme: ../styles.scss
     #smaller: true
     logo: ../usp.png
     scrollable: true
@@ -41,16 +41,16 @@ format:
 
 ### Acute pancreatitis (AP)
 
--   **Prevalence:** Most common acute gastrointestinal disease requiring hospital admission.
+-   **Prevalence:** Most common acute GI disease requiring hospitalization.
 -   **Prognosis:** Favorable in \~80% of cases.
--   **Severe Form:** Acute Necrotizing Pancreatitis (ANP) affects \~20%, with:
+-   **Severe Form:** Acute Necrotizing Pancreatitis (**ANP**) affects \~20%, with:
     -   38% early organ failure
     -   38% requiring intervention
     -   15% mortality rate
 -   **Metabolic Impact:** High catabolism—nutritional support is crucial.
 -   **Nutritional Strategy:**
     -   **Enteral Nutrition (EN)** proven superior to Parenteral Nutrition (PN).
-    -   This led to a paradigm shift in ANP management over the past decade.
+    -   Paradigm shift in ANP management over the past decade.
 -   **Current Research Gaps:**
     -   Optimal **timing**, **route**, and **type** of EN.
     -   Role of **oral refeeding** still under investigation.
@@ -69,9 +69,9 @@ format:
 
 ## 3. Acute pancreatitis
 
-### Recomendation 1 (Nutritional risk)
+### Recomendation 1: Nutritional risk
 
-**Patients with acute pancreatitis should be considered at moderate to high nutritional risk, because of the catabolic nature of the disease and because of the impact of the nutritional status for disease development.**
+**All patients with acute pancreatitis (AP)** should be considered at **moderate to high nutritional risk** due to the disease’s **catabolic nature** and its impact on outcomes.
 
 **(S1, strong consensus, 97 %)**
 
@@ -97,9 +97,13 @@ Fig. 1. Nutritional [management of acute pancreatitis](https://www.sciencedirect
 
 ## 3.1. Mild to moderate disease
 
-### Recomendation 2 (Nutritional Risk)
+### Recomendation 2: Nutritional Screening
 
-**All patients with predicted mild to moderate acute pancreatitis should be screened using validated screening methods such as the Nutritional Risk Screening – 2002 (NRS-2002); however, the patients with predicted severe acute pancreatitis should always be considered at nutritional risk.**
+1.  Use validated tools like **NRS-2002** to screen **all patients with predicted mild to moderate AP** for nutritional risk.
+
+2.  Patients with **predicted severe AP** are **automatically considered at nutritional risk**—no additional screening needed.
+
+**(R1, grade B, strong consensus, 100 %)**
 
 -   **Screening Tools:**
     -   [NRS 2002](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib12) helps identify patients at nutritional risk.
@@ -110,27 +114,59 @@ Fig. 1. Nutritional [management of acute pancreatitis](https://www.sciencedirect
         -   **Low BMI:** Indicates pre-existing malnutrition.
         -   **Obesity:** Increases risk for **severe AP**, acting as a **disease severity-related nutritional risk** \[[18](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib18)\].
 
-### Recomendation 3: Oral feeding with low fat soft diet
+### Questão 1
 
-**Oral feeding shall be offered as soon as clinically tolerated and independent of serum [lipase](https://www.sciencedirect.com/topics/medicine-and-dentistry/triacylglycerol-lipase) concentrations in patients with predicted mild AP.**
+Um médico residente está avaliando um paciente com pancreatite aguda (PA) na enfermaria. Com base nas evidências atuais sobre a fisiopatologia e manejo nutricional da PA, quais das alternativas abaixo são verdadeiras? *(Selecione todas as corretas)*
+
+1.  Todo paciente com PA deve ser considerado em risco nutricional moderado a alto, mesmo que apresente boa ingestão oral na admissão.
+
+2.  A nutrição parenteral deve ser iniciada precocemente em todos os casos de pancreatite necrosante devido à disfunção de barreira intestinal.
+
+3.  Pacientes com PA leve a moderada não requerem triagem nutricional formal, pois o risco nutricional é considerado baixo.
+
+4.  O catabolismo exacerbado na PA grave justifica a introdução precoce da nutrição enteral, preferencialmente por sonda jejunal.
+
+5.  O índice de massa corporal (IMC) pode ser útil na estratificação do risco nutricional, já que tanto a desnutrição quanto a obesidade influenciam negativamente o prognóstico.
+
+6.  Ferramentas como o NRS-2002 são úteis para triagem nutricional em PA, mas não foram validadas especificamente para essa condição.
+
+------------------------------------------------------------------------
+
+### Questão 1
+
+Um médico residente está avaliando um paciente com pancreatite aguda (PA) na enfermaria. Com base nas evidências atuais sobre a fisiopatologia e manejo nutricional da PA, quais das alternativas abaixo são verdadeiras? *(Selecione todas as corretas)*
+
+1.  **Todo paciente com PA deve ser considerado em risco nutricional moderado a alto, mesmo que apresente boa ingestão oral na admissão. (Correta)**
+
+2.  A nutrição parenteral deve ser iniciada precocemente em todos os casos de pancreatite necrosante devido à disfunção de barreira intestinal. (Incorreta)
+
+3.  Pacientes com PA leve a moderada não requerem triagem nutricional formal, pois o risco nutricional é considerado baixo. (Incorreta)
+
+4.  **O catabolismo exacerbado na PA grave justifica a introdução precoce da nutrição enteral, preferencialmente por sonda jejunal. (Correta)**
+
+5.  **O índice de massa corporal (IMC) pode ser útil na estratificação do risco nutricional, já que tanto a desnutrição quanto a obesidade influenciam negativamente o prognóstico. (Correta)**
+
+6.  **Ferramentas como o NRS-2002 são úteis para triagem nutricional em PA, mas não foram validadas especificamente para essa condição. (Correta)**
+
+### Recomendation 3: Early Oral Feeding in Mild to Moderate AP
+
+Begin **oral feeding** as soon as **clinically tolerated**, regardless of **serum [lipase](https://www.sciencedirect.com/topics/medicine-and-dentistry/triacylglycerol-lipase) levels** in patients with predicted mild/moderate AP.
 
 **(R2, grade A, strong consensus, 100 %)**
-
-Early Oral Feeding in Mild to Moderate AP
 
 -   **Evidence from 4 [RCTs](https://www.sciencedirect.com/topics/medicine-and-dentistry/randomized-controlled-trial):**
     -   **Early oral feeding** is safe and well-tolerated.
     -   Leads to **shorter hospital stay** compared to conventional strategies.
-    -   Conventional feeding (not recommended) waits for:
+    -   *Conventional feeding* strategy is NOT recommended. It waits for:
         -   Enzyme reduction
         -   Pain resolution
         -   Return of bowel function
 -   **Key Finding:**
     -   One RCT showed that feeding is safe **regardless of serum lipase levels** \[[8](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib8), [19](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib19), [20](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib20), [21](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib21), [22](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib22)\].
 
-### Recomendation 4
+### Recomendation 4: Low-fat, soft oral diet
 
-**Low-fat, soft oral diet shall be used when reinitiating oral feeding in patients with mild acute pancreatitis.**
+Use a **low-fat, soft oral diet** when restarting feeding in patients with **mild/moderate AP**.
 
 **(R3, grade A, strong consensus, 100 %)**
 
@@ -147,7 +183,7 @@ Early Oral Feeding in Mild to Moderate AP
 
 ### Recomendation 5: Enteral nutrition in case of intolerance to oral feeding
 
-**In patients with AP and inability to feed orally, enteral nutrition shall be preferred to [parenteral nutrition](https://www.sciencedirect.com/topics/medicine-and-dentistry/parenteral-nutrition).**
+When **oral feeding is not tolerated**, prioritize [**enteral nutrition**](https://www.sciencedirect.com/topics/medicine-and-dentistry/parenteral-nutrition) over parenteral nutrition in **acute pancreatitis (AP)**.
 
 **(R4, grade A, strong consensus, 97 %)**
 
@@ -156,15 +192,8 @@ Early Oral Feeding in Mild to Moderate AP
     -   Stimulates [intestinal motility](https://www.sciencedirect.com/topics/medicine-and-dentistry/intestine-motility).
     -   Prevents [bacterial overgrowth](https://www.sciencedirect.com/topics/medicine-and-dentistry/bacterial-overgrowth).
     -   Increases [splanchnic blood flow](https://www.sciencedirect.com/topics/medicine-and-dentistry/splanchnic-blood-flow) \[[9](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib9)\].
--   **Evidence Base:**
-    -   **12 RCTs** and **11 systematic reviews/meta-analyses**, including a **Cochrane-standard meta-analysis**, confirm EN is:
-        -   **Safe and well-tolerated** in severe AP.
-        -   Reduces:
-            -   **Complications**
-            -   **Multi-organ failure**
-            -   **Infections**
-            -   **Mortality** compared to Parenteral Nutrition \[[30](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib30)-[40](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib40)\].
--   **Key Findings – [Al-Omran et al.](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib34) Meta-analysis:**
+-   **Evidence Base:**: **12 RCTs** and **11 systematic reviews/meta-analyses**. [**Cochrane-standard meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib34):
+    -   **Safe and well-tolerated** in severe AP.
     -   Compared to PN, EN reduces:
         -   **Mortality by 50%** (OR 0.50)
         -   **Infection rate** (OR 0.39)
@@ -176,40 +205,56 @@ Early Oral Feeding in Mild to Moderate AP
         -   **Mortality** (RR 0.36)
         -   **Multiple organ failure** (RR 0.39) \[[38](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib38)\].
 
+### Questão 2
+
+Você está acompanhando um paciente internado com diagnóstico de pancreatite aguda leve a moderada. Considerando as recomendações nutricionais mais atualizadas e baseadas em evidências para essa condição, quais das afirmações a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A introdução da dieta oral deve aguardar a normalização das enzimas pancreáticas, resolução da dor e recuperação da função intestinal.
+2.  A alimentação enteral está indicada apenas em casos de pancreatite aguda grave, sendo contraindicada em casos leves ou moderados.
+3.  A dieta oral pode ser iniciada assim que o paciente tolerar clinicamente, independentemente dos níveis séricos de lipase.
+4.  Em pacientes com intolerância à dieta oral, a nutrição enteral é preferida à parenteral por seus efeitos benéficos sobre a integridade da mucosa intestinal e menor risco de infecções.
+5.  Em casos de pancreatite induzida por hiperlipidemia, a conduta pode incluir jejum por 24 a 48 horas, dieta pobre em gordura e uso de medicamentos redutores de lipídios.
+6.  Dietas líquidas claras são mais bem toleradas e preferíveis às dietas pastosas no reinício da alimentação em pacientes com pancreatite aguda leve a moderada.
+
+### Questão 2
+
+Você está acompanhando um paciente internado com diagnóstico de pancreatite aguda leve a moderada. Considerando as recomendações nutricionais mais atualizadas e baseadas em evidências para essa condição, quais das afirmações a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A introdução da dieta oral deve aguardar a normalização das enzimas pancreáticas, resolução da dor e recuperação da função intestinal. (Incorreta)
+2.  A alimentação enteral está indicada apenas em casos de pancreatite aguda grave, sendo contraindicada em casos leves ou moderados. (Incorreta)
+3.  A dieta oral pode ser iniciada assim que o paciente tolerar clinicamente, independentemente dos níveis séricos de lipase. (Correta)
+4.  Em pacientes com intolerância à dieta oral, a nutrição enteral é preferida à parenteral por seus efeitos benéficos sobre a integridade da mucosa intestinal e menor risco de infecções. (Correta)
+5.  Em casos de pancreatite induzida por hiperlipidemia, a conduta pode incluir jejum por 24 a 48 horas, dieta pobre em gordura e uso de hipolipemiantes. (Correta)
+6.  Dietas líquidas claras são mais bem toleradas e preferíveis às dietas pastosas no reinício da alimentação em pacientes com pancreatite aguda leve a moderada. (Incorreta)
+
 ### Recomendation 6: EN Timing
 
-[**Enteral nutrition**](https://www.sciencedirect.com/topics/medicine-and-dentistry/enteric-feeding) **should be started early, within 24–72 h of admission, in case of intolerance to oral feeding**
+[**Enteral nutrition**](https://www.sciencedirect.com/topics/medicine-and-dentistry/enteric-feeding) **should be started early, within 24–72 h of admission, in case of intolerance to oral feeding.**
 
 **(R5, grade B, strong consensus, 92 %)**
 
--   **Meta-Analyses Findings:**
-    -   Early EN within **24h** \[[41](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib41), [42](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib42), [43](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib43)\] or **48h** \[[44](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib44), [45](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib45), [46](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib46)\] is:
-        -   **Safe, well-tolerated, and beneficial.**
-        -   Reduces **mortality, organ failure, and infections.**
+-   **Meta-Analyses Findings:**. Early EN within **24h** \[[41](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib41), [42](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib42), [43](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib43)\] or **48h** \[[44](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib44), [45](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib45), [46](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib46)\] is:
+    -   **Safe, well-tolerated, and beneficial.**
+    -   Reduces **mortality, organ failure, and infections.**
     -   **Limitation:** Most included studies had PN as the control group, not delayed EN.
--   **RCTs with Different Findings:**
-    -   Two RCTs \[[43](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib43), [47](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib47)\] showed:
-        -   **No difference** in major infection or mortality between:
-            -   **Early EN (within 24h)** vs.
-            -   **Oral diet after 72h.**
--   **Optimal Timing Insight:**
-    -   A [prospective cohort study](https://www.sciencedirect.com/topics/medicine-and-dentistry/prospective-cohort-study) \[[48](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib48)\] suggests:
-        -   **Day 3 after admission** is the optimal cut-off for EN.
-        -   Associated with:
-            -   **Reduced secondary infections.**
-            -   **Better nutritional status.**
-            -   **Improved tolerance.**
+-   **RCTs with Different Findings:**. Two RCTs \[[43](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib43), [47](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib47)\] showed:
+    -   **No difference** in major infection or mortality between:
+        -   **Early EN (within 24h)** vs.
+        -   **Oral diet after 72h.**
+-   **Optimal Timing Insight:**. A [prospective cohort study](https://www.sciencedirect.com/topics/medicine-and-dentistry/prospective-cohort-study) \[[48](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib48)\] suggests:
+    -   **Day 3 after admission** is the optimal cut-off for EN.
+    -   Associated with:
+        -   **Reduced secondary infections.**
+        -   **Better nutritional status.**
+        -   **Improved tolerance.**
 
 ### Recomendation 7: Formula selection
 
-**In patients with acute pancreatitis a standard polymeric diet shall be used.**
+Use a **standard polymeric formula** for enteral nutrition in **acute pancreatitis** patients.
 
 **(R6, grade A, strong consensus, 97 %)**
 
--   **Formula Types:**
-    -   [Semi-elemental](https://www.sciencedirect.com/topics/medicine-and-dentistry/malabsorption) and **polymeric formulas** are:
-        -   **Safe, feasible, and well-tolerated** in AP patients.
--   **Key Findings:**
+-   [Semi-elemental](https://www.sciencedirect.com/topics/medicine-and-dentistry/malabsorption) and **polymeric formulas** are **safe, feasible, and well-tolerated** in AP patients.
     -   Small RCT (30 patients) found both formulas effective, but **semi-elemental** diets showed:
         -   **Shorter length of stay** (23 ± 2 vs. 27 ± 1 days, p = 0.006).
         -   **Better weight maintenance** \[[49](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib49)\].
@@ -222,30 +267,44 @@ Early Oral Feeding in Mild to Moderate AP
 
 ### Recomendation 8: EN Route
 
-**If enteral nutrition is required in patients with acute pancreatitis, it should be administered via a nasogastric tube. Administration via a nasojejunal tube should be preferred in case of digestive intolerance, such as pain and vomiting.**
+1.  If EN is required in patients with AP, use a **nasogastric tube**.
+2.  A **nasojejunal tube** is preferred in case of *digestive intolerance* (e.g., pain, vomiting).
 
 **(R7, grade B, strong consensus, 95 %)**
 
--   **Recommendation:**
-    -   Use a **nasogastric tube** for enteral nutrition in acute pancreatitis.
-    -   Switch to **nasojejunal tube** if there is digestive intolerance (e.g., pain, vomiting).
--   **Evidence Summary:**
-    -   **3 RCTs** \[[52](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib52), [53](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib53), [54](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib54)\] found **no differences** in:
-        -   Tolerance
-        -   Complications
-        -   Mortality between nasogastric and nasojejunal routes.
-    -   **4 meta-analyses** \[[55](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib55), [56](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib56), [57](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib57), [58](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib58)\] confirm:
-        -   **Nasogastric feeding is safe, feasible, and effective**.
-        -   No increase in mortality, complications, or hospital stay compared to nasojejunal feeding.
+-   **3 RCTs** \[[52](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib52), [53](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib53), [54](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib54)\] found **no differences** between nasogastric and nasojejunal routes in (1) **tolerance**, (2) **complications**, and (3) **mortality**.
+-   **4 meta-analyses** \[[55](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib55), [56](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib56), [57](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib57), [58](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib58)\] confirm:
+    -   **Nasogastric feeding is safe, feasible, and effective**.
+    -   No increase in mortality, complications, or hospital stay compared to nasojejunal feeding.
 -   **Practical Considerations:**
-    -   **Nasogastric tubes:**
-        -   Easier, cheaper, and more convenient.
+    -   **Nasogastric tubes:** Easier, cheaper, and more convenient.
     -   **Digestive intolerance (\~15%)** may occur due to:
         -   [Delayed gastric emptying](https://www.sciencedirect.com/topics/medicine-and-dentistry/stomach-paresis).
-        -   Gastric outlet syndrome.
+        -   Gastric outlet obstruction (GOO) syndrome (mechanical or functional blockage at the distal stomach, pylorus, or proximal duodenum).
     -   In such cases, **nasojejunal feeding** is preferred.
--   **Limitations:**
-    -   Trials included **small sample sizes** and **varied definitions** of severe AP.
+-   **Limitations:** trials included **small sample sizes** and **varied definitions** of severe AP.
+
+### Questão 3
+
+Você está em plantão na UTI e assume o cuidado de um paciente com pancreatite aguda grave que não tolerou alimentação oral nas primeiras 24 horas. Com base nas evidências mais atualizadas sobre nutrição enteral (NE) nesse cenário, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A nutrição enteral deve ser iniciada precocemente, preferencialmente entre 24 e 72 horas da admissão, nos pacientes que não toleram via oral.
+2.  A via nasojejunal deve ser sempre preferida à via nasogástrica, pois garante maior segurança, tolerância e menor taxa de complicações.
+3.  As evidências atuais favorecem o uso de fórmulas semi-elementares em todos os pacientes, por apresentarem melhores desfechos clínicos em estudos randomizados de grande porte.
+4.  Embora não haja superioridade geral, pacientes com pancreatite aguda e má absorção podem se beneficiar de dietas semi-elementares.
+5.  Meta-análises e estudos clínicos indicam que a NE precoce reduz mortalidade, falência orgânica e infecções, ainda que parte das evidências tenha comparado com nutrição parenteral, e não com NE tardia.
+6.  Em caso de intolerância digestiva à NE por sonda nasogástrica (ex.: náuseas, vômitos ou dor), deve-se considerar a troca para sonda nasojejunal.
+
+### Questão 3
+
+Você está em plantão na UTI e assume o cuidado de um paciente com pancreatite aguda grave que não tolerou alimentação oral nas primeiras 24 horas. Com base nas evidências mais atualizadas sobre nutrição enteral (NE) nesse cenário, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A nutrição enteral deve ser iniciada precocemente, preferencialmente entre 24 e 72 horas da admissão, nos pacientes que não toleram via oral. (Correta)
+2.  A via nasojejunal deve ser sempre preferida à via nasogástrica, pois garante maior segurança, tolerância e menor taxa de complicações. (Incorreta)
+3.  As evidências atuais favorecem o uso de fórmulas semi-elementares em todos os pacientes, por apresentarem melhores desfechos clínicos em estudos randomizados de grande porte. (Incorreta)
+4.  Embora não haja superioridade geral, pacientes com pancreatite aguda e má absorção podem se beneficiar de dietas semi-elementares. (Correta)
+5.  Meta-análises e estudos clínicos indicam que a NE precoce reduz mortalidade, falência orgânica e infecções, ainda que parte das evidências tenha comparado com nutrição parenteral, e não com NE tardia. (Correta)
+6.  Em caso de intolerância digestiva à NE por sonda nasogástrica (ex.: náuseas, vômitos ou dor), deve-se considerar a troca para sonda nasojejunal. (Correta)
 
 ### Fig. 2. Management of mild to moderate acute pancreatitis.
 
@@ -259,15 +318,14 @@ Fig. 2. Management of mild to moderate acute pancreatitis. AP, acute pancreatiti
 
 ### Recomendation 9: PN in case of intolerance of EN
 
-**PN should be administered in patients with acute pancreatitis who do not tolerate enteral nutrition or who are unable to tolerate targeted [nutritional requirements](https://www.sciencedirect.com/topics/medicine-and-dentistry/nutritional-requirement), or if contraindications for EN exist.**
+**PN should be used** in patients with acute pancreatitis who:
+
+-   **Cannot tolerate [enteral nutrition (EN)](https://www.sciencedirect.com/topics/medicine-and-dentistry/nutritional-requirement)**.
+-   **Cannot meet nutritional targets via EN.**
+-   **Have contraindications for EN.**
 
 **(R8, grade GPP, strong consensus, 97 %)**
 
--   **Recommendation:**
-    -   **PN should be used** in patients with acute pancreatitis who:
-        -   **Cannot tolerate [enteral nutrition (EN)](https://www.sciencedirect.com/topics/medicine-and-dentistry/nutritional-requirement)**.\
-        -   **Cannot meet nutritional targets via EN.**\
-        -   **Have contraindications for EN.**
 -   **Rationale:**
     -   **EN is the preferred route** due to superior outcomes.\
     -   **PN is reserved for cases of EN failure or contraindications.**
@@ -504,4 +562,3 @@ ACS, abdominal compartement syndrome; AP, acute pancreatitis; EN, enteral nutrit
 ### References
 
 1.  [ESPEN practical guideline on clinical nutrition in acute and chronic pancreatitis](https://www.clinicalnutritionjournal.com/article/S0261-5614(23)00459-4/). Arvanitakis, Marianna et al. Clinical Nutrition, Volume 43, Issue 2, 395 - 412.
-

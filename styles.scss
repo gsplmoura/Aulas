@@ -10,7 +10,7 @@ $body-color: #333 !default;
 $presentation-font-size-root: 20px !default;
 $presentation-heading-font: "Quicksand", sans-serif !default;
 $presentation-heading-color: $body-color !default;
-$presentation-heading-letter-spacing: 1em !default;
+//$presentation-heading-letter-spacing: 0em !default;
 $presentation-heading-text-shadow: none !default;
 $presentation-h1-font-size: 2.0em !default;
 $presentation-h2-font-size: 1.8em !default;
@@ -23,6 +23,7 @@ $link-color: #3b759e !default;
 $selection-bg: #134674 !default;
 $overlayElementBgColor: 0, 0, 0 !default;
 $overlayElementFgColor: 240, 240, 240 !default;
+
 
 // Change text colors against dark slide backgrounds
 $dark-bg-text-color: #fff !default;
@@ -48,7 +49,7 @@ $code-block-bg: transparent !default;
 .reveal .slides {
   strong, b {
     font-weight: 500;
-    color: #663344
+    color: #663344;
   }
 }
 
@@ -62,4 +63,8 @@ $code-block-bg: transparent !default;
 .reveal .smaller {
   font-size: 0.75em;
   color: #666666;
+}
+
+.text-muted {
+  color: lighten($body-color, 50%);
 }
