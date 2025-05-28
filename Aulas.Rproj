@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 19f7276a-836c-4daf-811d-58843bd996ff
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 4
+Encoding: UTF-8
+
+RnwWeave: knitr
+LaTeX: pdfLaTeX
+
+ProjectName: Aulas
