@@ -306,6 +306,16 @@ Você está em plantão na UTI e assume o cuidado de um paciente com pancreatite
 5.  Meta-análises e estudos clínicos indicam que a NE precoce reduz mortalidade, falência orgânica e infecções, ainda que parte das evidências tenha comparado com nutrição parenteral, e não com NE tardia. (Correta)
 6.  Em caso de intolerância digestiva à NE por sonda nasogástrica (ex.: náuseas, vômitos ou dor), deve-se considerar a troca para sonda nasojejunal. (Correta)
 
+### Questão 4
+
+Durante a discussão de um caso de pancreatite aguda grave na UTI, um colega sugere intervenções nutricionais e terapêuticas diversas. Com base nas diretrizes e nas evidências científicas disponíveis, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A nutrição parenteral deve ser iniciada em todos os pacientes com pancreatite aguda grave, independentemente da tolerância à via enteral.
+2.  A suplementação de glutamina na nutrição parenteral pode ser benéfica, reduzindo infecções e mortalidade, mas não há benefícios da sua suplementação se o paciente estiver recebendo nutrição enteral exclusiva.
+3.  Probióticos são indicados para pacientes com pancreatite aguda grave, pois reduzem infecções e tempo de internação.
+4.  A suplementação de enzimas pancreáticas é considerada suporte nutricional padrão em pacientes com pancreatite aguda grave.
+5.  A nutrição parenteral está indicada quando não é possível atingir as metas nutricionais por via enteral, ou quando há contraindicações do uso da via enteral, como obstrução intestinal ou isquemia mesentérica.
+
 ### Fig. 2. Management of mild to moderate acute pancreatitis.
 
 ![](img/gr2_lrg.png)
@@ -397,21 +407,21 @@ Fig. 2. Management of mild to moderate acute pancreatitis. AP, acute pancreatiti
 
 Durante a discussão de um caso de pancreatite aguda grave na UTI, um colega sugere intervenções nutricionais e terapêuticas diversas. Com base nas diretrizes e nas evidências científicas disponíveis, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
 
-1.  A nutrição parenteral deve ser iniciada em todos os pacientes com pancreatite aguda grave, independentemente da tolerância à via enteral.
-2.  A suplementação de glutamina na nutrição parenteral pode ser benéfica, reduzindo infecções e mortalidade, mas não há benefícios da sua suplementação se o paciente estiver recebendo nutrição enteral exclusiva.
-3.  Probióticos são indicados para pacientes com pancreatite aguda grave, pois reduzem infecções e tempo de internação.
-4.  A suplementação de enzimas pancreáticas é considerada suporte nutricional padrão em pacientes com pancreatite aguda grave.
-5.  A nutrição parenteral está indicada quando não é possível atingir as metas nutricionais por via enteral, ou quando há contraindicações do uso da via enteral, como obstrução intestinal ou isquemia mesentérica.
-
-### Questão 4
-
-Durante a discussão de um caso de pancreatite aguda grave na UTI, um colega sugere intervenções nutricionais e terapêuticas diversas. Com base nas diretrizes e nas evidências científicas disponíveis, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
-
 1.  A nutrição parenteral deve ser iniciada em todos os pacientes com pancreatite aguda grave, independentemente da tolerância à via enteral. (Incorreta)
 2.  A suplementação de glutamina na nutrição parenteral pode ser benéfica, reduzindo infecções e mortalidade, mas não há benefícios da sua suplementação se o paciente estiver recebendo nutrição enteral exclusiva. (Correta)
 3.  Probióticos são indicados para pacientes com pancreatite aguda grave, pois reduzem infecções e tempo de internação. (Incorreta)
 4.  A suplementação de enzimas pancreáticas é considerada suporte nutricional padrão em pacientes com pancreatite aguda grave. (Incorreta)
 5.  A nutrição parenteral está indicada quando não é possível atingir as metas nutricionais por via enteral, ou quando há contraindicações do uso da via enteral, como obstrução intestinal ou isquemia mesentérica. (Correta)
+
+### Questão 5
+
+Durante a evolução de um paciente com pancreatite aguda necrosante submetido a necrosectomia minimamente invasiva, você deve planejar sua estratégia de suporte nutricional. Com base nas recomendações mais recentes, quais das alternativas abaixo estão corretas? *(Selecione todas as corretas)*
+
+1.  A introdução da alimentação oral pode ser considerada dentro de 24 horas após a necrosectomia, desde que o paciente esteja hemodinamicamente estável e sem sinais de sepse ou distúrbios do esvaziamento gástrico.
+2.  A nutrição parenteral é preferida à enteral nos primeiros dias após necrosectomia devido à alta frequência de intolerância e risco infeccioso.
+3.  Em caso de intolerância à via oral após a necrosectomia, a nutrição enteral deve ser iniciada precodemente por via nasogástrica, e a via nasojejunal é indicada em caso de falha na via nasogástrica.
+4.  A nutrição parenteral pode ser utilizada como complemento ou substituto caso a nutrição enteral não seja tolerada, não atinja as metas calóricas ou esteja contraindicada.
+5.  A escolha da via nutricional após necrosectomia deve seguir uma abordagem escalonada: oral → enteral (nasojejunal) → parenteral, conforme tolerância e condição clínica.
 
 ### Fig. 3. Management of severe pancreatitis
 
@@ -481,15 +491,16 @@ Durante a evolução de um paciente com pancreatite aguda necrosante submetido a
 4.  A nutrição parenteral pode ser utilizada como complemento ou substituto caso a nutrição enteral não seja tolerada, não atinja as metas calóricas ou esteja contraindicada. (Correta)
 5.  A escolha da via nutricional após necrosectomia deve seguir uma abordagem escalonada: oral → enteral (nasojejunal) → parenteral, conforme tolerância e condição clínica. (Correta)
 
-### Questão 5
+### Questão 6
 
-Durante a evolução de um paciente com pancreatite aguda necrosante submetido a necrosectomia minimamente invasiva, você deve planejar sua estratégia de suporte nutricional. Com base nas recomendações mais recentes, quais das alternativas abaixo estão corretas? *(Selecione todas as corretas)*
+Você acompanha um paciente com pancreatite aguda grave internado na UTI, cuja pressão intra-abdominal (PIA) é monitorada regularmente. Com base nas evidências atuais sobre nutrição em pacientes com PIA elevada ou abdome aberto, quais das afirmações a seguir estão corretas? *(Selecione todas as corretas)*
 
-1.  A introdução da alimentação oral pode ser considerada dentro de 24 horas após a necrosectomia, desde que o paciente esteja hemodinamicamente estável e sem sinais de sepse ou distúrbios do esvaziamento gástrico. (Correta)
-2.  A nutrição parenteral é preferida à enteral nos primeiros dias após necrosectomia devido à alta frequência de intolerância e risco infeccioso. (Incorreta)
-3.  Em caso de intolerância à via oral após a necrosectomia, a nutrição enteral deve ser iniciada precodemente por via nasogástrica, e a via nasojejunal é indicada em caso de falha na via nasogástrica. (Incorreta)
-4.  A nutrição parenteral pode ser utilizada como complemento ou substituto caso a nutrição enteral não seja tolerada, não atinja as metas calóricas ou esteja contraindicada. (Correta)
-5.  A escolha da via nutricional após necrosectomia deve seguir uma abordagem escalonada: oral → enteral (nasojejunal) → parenteral, conforme tolerância e condição clínica. (Correta)
+1.  Quando a PIA está abaixo de 15 mmHg, a nutrição enteral deve ser iniciada precocemente, com monitoramento contínuo da PIA.
+2.  Em pacientes com PIA \>15 mmHg, a nutrição enteral deve ser suspensa imediatamente e substituída por nutrição parenteral total.
+3.  A introdução cautelosa da NE por via nasojejunal, iniciando a 20 mL/h, é recomendada em pacientes com PIA \>15 mmHg, desde que monitorada adequadamente.
+4.  A presença de síndrome compartimental abdominal (ACS) ou PIA \>20 mmHg contraindica a continuação da NE, devendo-se iniciar PN.
+5.  Mesmo em pacientes com abdome aberto por laparostomia descompressiva, é recomendado iniciar NE, mesmo que em pequenas quantidades, complementada por PN se necessário.
+6.  A presença de abdome aberto contraindica o uso de nutrição enteral devido ao risco elevado de fístulas e infecções.
 
 ## Intra-abdominal hypertension
 
@@ -587,17 +598,6 @@ In patients with **severe acute pancreatitis (AP)** and an **open abdomen**:
         -   **Reduced nosocomial infections.**\
         -   **Lower hospital costs** \[[83](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib83), [84](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib84)\].
 -   **Conclusion:** Even in the presence of an open abdomen, **EN should be maintained whenever possible**, supported by PN if needed, due to significant clinical benefits.
-
-### Questão 6
-
-Você acompanha um paciente com pancreatite aguda grave internado na UTI, cuja pressão intra-abdominal (PIA) é monitorada regularmente. Com base nas evidências atuais sobre nutrição em pacientes com PIA elevada ou abdome aberto, quais das afirmações a seguir estão corretas? *(Selecione todas as corretas)*
-
-1.  Quando a PIA está abaixo de 15 mmHg, a nutrição enteral deve ser iniciada precocemente, com monitoramento contínuo da PIA.
-2.  Em pacientes com PIA \>15 mmHg, a nutrição enteral deve ser suspensa imediatamente e substituída por nutrição parenteral total.
-3.  A introdução cautelosa da NE por via nasojejunal, iniciando a 20 mL/h, é recomendada em pacientes com PIA \>15 mmHg, desde que monitorada adequadamente.
-4.  A presença de síndrome compartimental abdominal (ACS) ou PIA \>20 mmHg contraindica a continuação da NE, devendo-se iniciar PN.
-5.  Mesmo em pacientes com abdome aberto por laparostomia descompressiva, é recomendado iniciar NE, mesmo que em pequenas quantidades, complementada por PN se necessário.
-6.  A presença de abdome aberto contraindica o uso de nutrição enteral devido ao risco elevado de fístulas e infecções.
 
 ### Questão 6
 
