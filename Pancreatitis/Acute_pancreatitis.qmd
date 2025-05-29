@@ -44,15 +44,10 @@ format:
 Um médico residente está avaliando um paciente com pancreatite aguda (PA) na enfermaria. Com base nas evidências atuais sobre a fisiopatologia e manejo nutricional da PA, quais das alternativas abaixo são verdadeiras? *(Selecione todas as corretas)*
 
 1.  Todo paciente com PA deve ser considerado em risco nutricional moderado a alto, mesmo que apresente boa ingestão oral na admissão.
-
 2.  A nutrição parenteral deve ser iniciada precocemente em todos os casos de pancreatite necrosante devido à disfunção de barreira intestinal.
-
 3.  Pacientes com PA leve a moderada não requerem triagem nutricional formal, pois o risco nutricional é considerado baixo.
-
 4.  O catabolismo exacerbado na PA grave justifica a introdução precoce da nutrição enteral, preferencialmente por sonda jejunal.
-
 5.  O índice de massa corporal (IMC) pode ser útil na estratificação do risco nutricional, já que tanto a desnutrição quanto a obesidade influenciam negativamente o prognóstico.
-
 6.  Ferramentas como o NRS-2002 são úteis para triagem nutricional em PA, mas não foram validadas especificamente para essa condição.
 
 ### Acute pancreatitis (AP)
@@ -130,21 +125,15 @@ Fig. 1. Nutritional [management of acute pancreatitis](https://www.sciencedirect
         -   **Low BMI:** Indicates pre-existing malnutrition.
         -   **Obesity:** Increases risk for **severe AP**, acting as a **disease severity-related nutritional risk** \[[18](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib18)\].
 
-
 ### Questão 1
 
 Um médico residente está avaliando um paciente com pancreatite aguda (PA) na enfermaria. Com base nas evidências atuais sobre a fisiopatologia e manejo nutricional da PA, quais das alternativas abaixo são verdadeiras? *(Selecione todas as corretas)*
 
 1.  **Todo paciente com PA deve ser considerado em risco nutricional moderado a alto, mesmo que apresente boa ingestão oral na admissão. (Correta)**
-
 2.  A nutrição parenteral deve ser iniciada precocemente em todos os casos de pancreatite necrosante devido à disfunção de barreira intestinal. (Incorreta)
-
 3.  Pacientes com PA leve a moderada não requerem triagem nutricional formal, pois o risco nutricional é considerado baixo. (Incorreta)
-
 4.  **O catabolismo exacerbado na PA grave justifica a introdução precoce da nutrição enteral, preferencialmente por sonda jejunal. (Correta)**
-
 5.  **O índice de massa corporal (IMC) pode ser útil na estratificação do risco nutricional, já que tanto a desnutrição quanto a obesidade influenciam negativamente o prognóstico. (Correta)**
-
 6.  **Ferramentas como o NRS-2002 são úteis para triagem nutricional em PA, mas não foram validadas especificamente para essa condição. (Correta)**
 
 ### Questão 2
@@ -214,7 +203,6 @@ When **oral feeding is not tolerated**, prioritize [**enteral nutrition**](https
     -   Latest meta-analyses in critically ill AP patients show EN significantly reduces:
         -   **Mortality** (RR 0.36)
         -   **Multiple organ failure** (RR 0.39) \[[38](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib38)\].
-
 
 ### Questão 2
 
