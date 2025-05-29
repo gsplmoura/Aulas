@@ -39,6 +39,22 @@ format:
 
 ## 1. Introduction
 
+### Questão 1
+
+Um médico residente está avaliando um paciente com pancreatite aguda (PA) na enfermaria. Com base nas evidências atuais sobre a fisiopatologia e manejo nutricional da PA, quais das alternativas abaixo são verdadeiras? *(Selecione todas as corretas)*
+
+1.  Todo paciente com PA deve ser considerado em risco nutricional moderado a alto, mesmo que apresente boa ingestão oral na admissão.
+
+2.  A nutrição parenteral deve ser iniciada precocemente em todos os casos de pancreatite necrosante devido à disfunção de barreira intestinal.
+
+3.  Pacientes com PA leve a moderada não requerem triagem nutricional formal, pois o risco nutricional é considerado baixo.
+
+4.  O catabolismo exacerbado na PA grave justifica a introdução precoce da nutrição enteral, preferencialmente por sonda jejunal.
+
+5.  O índice de massa corporal (IMC) pode ser útil na estratificação do risco nutricional, já que tanto a desnutrição quanto a obesidade influenciam negativamente o prognóstico.
+
+6.  Ferramentas como o NRS-2002 são úteis para triagem nutricional em PA, mas não foram validadas especificamente para essa condição.
+
 ### Acute pancreatitis (AP)
 
 -   **Prevalence:** Most common acute GI disease requiring hospitalization.
@@ -114,23 +130,6 @@ Fig. 1. Nutritional [management of acute pancreatitis](https://www.sciencedirect
         -   **Low BMI:** Indicates pre-existing malnutrition.
         -   **Obesity:** Increases risk for **severe AP**, acting as a **disease severity-related nutritional risk** \[[18](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib18)\].
 
-### Questão 1
-
-Um médico residente está avaliando um paciente com pancreatite aguda (PA) na enfermaria. Com base nas evidências atuais sobre a fisiopatologia e manejo nutricional da PA, quais das alternativas abaixo são verdadeiras? *(Selecione todas as corretas)*
-
-1.  Todo paciente com PA deve ser considerado em risco nutricional moderado a alto, mesmo que apresente boa ingestão oral na admissão.
-
-2.  A nutrição parenteral deve ser iniciada precocemente em todos os casos de pancreatite necrosante devido à disfunção de barreira intestinal.
-
-3.  Pacientes com PA leve a moderada não requerem triagem nutricional formal, pois o risco nutricional é considerado baixo.
-
-4.  O catabolismo exacerbado na PA grave justifica a introdução precoce da nutrição enteral, preferencialmente por sonda jejunal.
-
-5.  O índice de massa corporal (IMC) pode ser útil na estratificação do risco nutricional, já que tanto a desnutrição quanto a obesidade influenciam negativamente o prognóstico.
-
-6.  Ferramentas como o NRS-2002 são úteis para triagem nutricional em PA, mas não foram validadas especificamente para essa condição.
-
-------------------------------------------------------------------------
 
 ### Questão 1
 
@@ -147,6 +146,17 @@ Um médico residente está avaliando um paciente com pancreatite aguda (PA) na e
 5.  **O índice de massa corporal (IMC) pode ser útil na estratificação do risco nutricional, já que tanto a desnutrição quanto a obesidade influenciam negativamente o prognóstico. (Correta)**
 
 6.  **Ferramentas como o NRS-2002 são úteis para triagem nutricional em PA, mas não foram validadas especificamente para essa condição. (Correta)**
+
+### Questão 2
+
+Você está acompanhando um paciente internado com diagnóstico de pancreatite aguda leve a moderada. Considerando as recomendações nutricionais mais atualizadas e baseadas em evidências para essa condição, quais das afirmações a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A introdução da dieta oral deve aguardar a normalização das enzimas pancreáticas, resolução da dor e recuperação da função intestinal.
+2.  A alimentação enteral está indicada apenas em casos de pancreatite aguda grave, sendo contraindicada em casos leves ou moderados.
+3.  A dieta oral pode ser iniciada assim que o paciente tolerar clinicamente, independentemente dos níveis séricos de lipase.
+4.  Em pacientes com intolerância à dieta oral, a nutrição enteral é preferida à parenteral por seus efeitos benéficos sobre a integridade da mucosa intestinal e menor risco de infecções.
+5.  Em casos de pancreatite induzida por hiperlipidemia, a conduta pode incluir jejum por 24 a 48 horas, dieta pobre em gordura e uso de medicamentos redutores de lipídios.
+6.  Dietas líquidas claras são mais bem toleradas e preferíveis às dietas pastosas no reinício da alimentação em pacientes com pancreatite aguda leve a moderada.
 
 ### Recomendation 3: Early Oral Feeding in Mild to Moderate AP
 
@@ -205,16 +215,6 @@ When **oral feeding is not tolerated**, prioritize [**enteral nutrition**](https
         -   **Mortality** (RR 0.36)
         -   **Multiple organ failure** (RR 0.39) \[[38](https://www.sciencedirect.com/science/article/pii/S0261561423004594#bib38)\].
 
-### Questão 2
-
-Você está acompanhando um paciente internado com diagnóstico de pancreatite aguda leve a moderada. Considerando as recomendações nutricionais mais atualizadas e baseadas em evidências para essa condição, quais das afirmações a seguir estão corretas? *(Selecione todas as corretas)*
-
-1.  A introdução da dieta oral deve aguardar a normalização das enzimas pancreáticas, resolução da dor e recuperação da função intestinal.
-2.  A alimentação enteral está indicada apenas em casos de pancreatite aguda grave, sendo contraindicada em casos leves ou moderados.
-3.  A dieta oral pode ser iniciada assim que o paciente tolerar clinicamente, independentemente dos níveis séricos de lipase.
-4.  Em pacientes com intolerância à dieta oral, a nutrição enteral é preferida à parenteral por seus efeitos benéficos sobre a integridade da mucosa intestinal e menor risco de infecções.
-5.  Em casos de pancreatite induzida por hiperlipidemia, a conduta pode incluir jejum por 24 a 48 horas, dieta pobre em gordura e uso de medicamentos redutores de lipídios.
-6.  Dietas líquidas claras são mais bem toleradas e preferíveis às dietas pastosas no reinício da alimentação em pacientes com pancreatite aguda leve a moderada.
 
 ### Questão 2
 
@@ -226,6 +226,17 @@ Você está acompanhando um paciente internado com diagnóstico de pancreatite a
 4.  Em pacientes com intolerância à dieta oral, a nutrição enteral é preferida à parenteral por seus efeitos benéficos sobre a integridade da mucosa intestinal e menor risco de infecções. (Correta)
 5.  Em casos de pancreatite induzida por hiperlipidemia, a conduta pode incluir jejum por 24 a 48 horas, dieta pobre em gordura e uso de hipolipemiantes. (Correta)
 6.  Dietas líquidas claras são mais bem toleradas e preferíveis às dietas pastosas no reinício da alimentação em pacientes com pancreatite aguda leve a moderada. (Incorreta)
+
+### Questão 3
+
+Você está em plantão na UTI e assume o cuidado de um paciente com pancreatite aguda grave que não tolerou alimentação oral nas primeiras 24 horas. Com base nas evidências mais atualizadas sobre nutrição enteral (NE) nesse cenário, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
+
+1.  A nutrição enteral deve ser iniciada precocemente, preferencialmente entre 24 e 72 horas da admissão, nos pacientes que não toleram via oral.
+2.  A via nasojejunal deve ser sempre preferida à via nasogástrica, pois garante maior segurança, tolerância e menor taxa de complicações.
+3.  As evidências atuais favorecem o uso de fórmulas semi-elementares em todos os pacientes, por apresentarem melhores desfechos clínicos em estudos randomizados de grande porte.
+4.  Embora não haja superioridade geral, pacientes com pancreatite aguda e má absorção podem se beneficiar de dietas semi-elementares.
+5.  Meta-análises e estudos clínicos indicam que a NE precoce reduz mortalidade, falência orgânica e infecções, ainda que parte das evidências tenha comparado com nutrição parenteral, e não com NE tardia.
+6.  Em caso de intolerância digestiva à NE por sonda nasogástrica (ex.: náuseas, vômitos ou dor), deve-se considerar a troca para sonda nasojejunal.
 
 ### Recomendation 6: EN Timing
 
@@ -283,17 +294,6 @@ Use a **standard polymeric formula** for enteral nutrition in **acute pancreatit
         -   Gastric outlet obstruction (GOO) syndrome (mechanical or functional blockage at the distal stomach, pylorus, or proximal duodenum).
     -   In such cases, **nasojejunal feeding** is preferred.
 -   **Limitations:** trials included **small sample sizes** and **varied definitions** of severe AP.
-
-### Questão 3
-
-Você está em plantão na UTI e assume o cuidado de um paciente com pancreatite aguda grave que não tolerou alimentação oral nas primeiras 24 horas. Com base nas evidências mais atualizadas sobre nutrição enteral (NE) nesse cenário, quais das alternativas a seguir estão corretas? *(Selecione todas as corretas)*
-
-1.  A nutrição enteral deve ser iniciada precocemente, preferencialmente entre 24 e 72 horas da admissão, nos pacientes que não toleram via oral.
-2.  A via nasojejunal deve ser sempre preferida à via nasogástrica, pois garante maior segurança, tolerância e menor taxa de complicações.
-3.  As evidências atuais favorecem o uso de fórmulas semi-elementares em todos os pacientes, por apresentarem melhores desfechos clínicos em estudos randomizados de grande porte.
-4.  Embora não haja superioridade geral, pacientes com pancreatite aguda e má absorção podem se beneficiar de dietas semi-elementares.
-5.  Meta-análises e estudos clínicos indicam que a NE precoce reduz mortalidade, falência orgânica e infecções, ainda que parte das evidências tenha comparado com nutrição parenteral, e não com NE tardia.
-6.  Em caso de intolerância digestiva à NE por sonda nasogástrica (ex.: náuseas, vômitos ou dor), deve-se considerar a troca para sonda nasojejunal.
 
 ### Questão 3
 
