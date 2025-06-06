@@ -1,0 +1,139 @@
+---
+title: "Disabsorção"
+subtitle: "Testes diagnósticos"
+format: html
+---
+
+### Teste da D-Xilose
+
+#### Resultado do caso
+
+**D-xilose urinária:** 3,0 g eliminados em 395 mL de urina coletada em 5 horas.\
+A paciente ingeriu 25 g de D-xilose e eliminou apenas 3 g — ou seja, **12% da dose ingerida**.\
+Isso é **menor que 16%**, portanto compatível com **síndrome de má-absorção intestinal**.
+
+#### Para que serve o teste da D-xilose?
+
+A D-xilose é um teste utilizado para investigar **síndromes de má-absorção intestinal**, avaliando diretamente a **capacidade da mucosa do intestino delgado de absorver carboidratos simples**.
+
+#### Importância clínica:
+
+-   Diferencia **má-absorção por alteração de mucosa intestinal** (ex: doença celíaca) de **insuficiência pancreática**, que não altera a absorção de D-xilose.
+-   A D-xilose **não depende de enzimas pancreáticas ou bile** — sua absorção depende **exclusivamente da integridade da mucosa intestinal**.
+
+#### O que acontece com a D-xilose no corpo em condições normais?
+
+-   É **eficientemente absorvida no jejuno**.
+-   **Não é metabolizada** de forma significativa.
+-   Após absorção, **entra na circulação sistêmica** e é **excretada inalterada pelos rins**, principalmente por **filtração glomerular**.
+
+#### Implicação prática:
+
+-   Se a mucosa intestinal está **normal**, a D-xilose será **absorvida e excretada em quantidades adequadas na urina**.
+-   Se a excreção urinária estiver **reduzida**, indica absorção intestinal deficiente → **alteração de mucosa intestinal**.
+
+Doenças associadas: - Doença celíaca - Enterite por Giardia - Doença de Whipple - Atrofia de vilosidades
+
+#### Como o exame é realizado?
+
+1.  O paciente ingere **25 g de D-xilose** dissolvidos em água.
+2.  Mede-se:
+    -   **Urina coletada por 5 horas** ou
+    -   **Amostra sanguínea após 1–2 horas**
+
+#### Coleta urinária: passo a passo
+
+-   O paciente deve **esvaziar a bexiga imediatamente antes** de ingerir a D-xilose (essa urina é desprezada).
+-   A partir daí, **toda a urina produzida por 5 horas** deve ser coletada em frasco único.
+-   No final, calcula-se a quantidade de D-xilose excretada **em gramas** ou **percentual da dose ingerida**.
+
+#### Interpretação dos resultados
+
+1)  **Urina (25 g ingeridos)** \| Resultado \| Interpretação \| \|--\|-\| \| ≥ 4 g (≥ 16%) \| Normal — absorção intestinal preservada \| \| \< 4 g (\< 16%) \| Sugere má-absorção intestinal \|
+
+2)  **Soro**
+
+Se for usada a **dosagem sérica de D-xilose**, coleta-se sangue após 1h ou 2h da ingestão.
+
+| Valor       | Interpretação                 |
+|-------------|-------------------------------|
+| ≥ 20 mg/dL  | Absorção normal               |
+| \< 20 mg/dL | Sugere má-absorção intestinal |
+
+#### Fatores que podem interferir no teste
+
+##### Urinária:
+
+-   Função renal prejudicada → menor excreção, **falso positivo**
+-   Coleta urinária incompleta → resultado **invalido ou subestimado**
+
+##### Sérica:
+
+-   Hidratação / volemia
+-   Tempo exato da coleta
+-   Obs. Menor influência da função renal
+
+#### Quando usar a dosagem sérica?
+
+-   Quando **a coleta urinária é inviável ou duvidosa** (ex: incontinência, anúria, pacientes pediátricos).
+-   Quando se deseja avaliar **rapidamente a absorção intestinal isoladamente**, sem interferência da função renal.
+
+#### Tabela comparativa
+
+| Característica | **Dosagem Urinária** | **Dosagem Sérica** |
+|------------------------|------------------------|------------------------|
+| **Dose utilizada** | 25 g de D-xilose oral | 25 g de D-xilose oral |
+| **Procedimento de coleta** | Coletar toda a urina por 5 horas após ingestão | Coletar sangue após 1h e/ou 2h |
+| **Valor normal** | ≥ 4 g (≥ 16% da dose ingerida) | ≥ 20 mg/dL |
+| **Valor alterado (sugere má-absorção)** | \< 4 g (ou \< 16%) | \< 20 mg/dL |
+| **Depende da função renal?** | Sim | Pouco |
+| **Depende da coleta correta?** | Muito (toda a urina deve ser coletada) | Menos crítico — basta coleta no tempo certo |
+| **Usado quando?** | Padrão tradicional do teste | Quando coleta urinária é inviável ou imprecisa |
+| **Interpretação clínica** | Avalia absorção intestinal + função renal | Avalia absorção intestinal isoladamente |
+| **Desvantagens** | Coleta trabalhosa; risco de perda de amostra | Pode ter variação com tempo e volemia |
+
+------------------------------------------------------------------------
+
+O ### Teste do H₂ expirado com glicose
+
+O teste do hidrogênio expirado com glicose é um exame simples, não invasivo, usado principalmente para detectar supercrescimento bacteriano no intestino delgado (SIBO – Small Intestinal Bacterial Overgrowth).
+
+#### O que é o teste do H₂ expirado com glicose?
+
+É um teste funcional que mede o hidrogênio (H₂) exalado após ingestão de um substrato (aqui, glicose). Esse hidrogênio é produzido por bactérias que fermentam carboidratos no lúmen intestinal.
+
+#### Como o teste funciona?
+
+1.  Ingestão de 90 g de glicose dissolvida em água.
+2.  Em uma situação normal, a glicose normalmente seria absorvida rapidamente no jejuno e não chegaria ao cólon. Como não chegaria no colon, não haveria fermentação bacteriana.
+3.  Se houver supercrescimento bacteriano no intestino delgado, essas bactérias fermentam a glicose e produzem gás hidrogênio (H₂).
+4.  O H₂ é absorvido pela mucosa intestinal, cai na corrente sanguínea, é levado até os pulmões e então é exalado.
+
+#### Como o exame é feito?
+
+
+ • Coleta-se o ar expirado em repouso (basal). 
+ • Após a ingestão da glicose, faz-se *coletas a cada 10 minutos durante 3 horas*. 
+ • O ar expirado é analisado em equipamento específico para medir os níveis de H₂.
+
+#### Resultado positivo:
+
+
+ • Um aumento ≥ 12 ppm de H₂ em relação ao basal indica supercrescimento bacteriano no intestino delgado (SIBO).
+
+#### Fatores que interferem no exame:
+
+
+ • Dieta prévia: o paciente deve evitar lactose, fibras e sacarose por 24-48h antes. 
+ • Tempo de trânsito intestinal (TTI): se for muito rápido, a glicose pode chegar ao cólon precocemente e gerar falso positivo. 
+ • Função respiratória prejudicada: pode dificultar a coleta adequada do ar expirado.
+
+#### Relevância clínica:
+
+O teste é muito útil para investigar SIBO, uma condição comum após cirurgia bariátrica, gastrectomia, síndromes de estase ou dismotilidade intestinal. SIBO pode causar:
+
+
+ • Diarreia crônica 
+ • Má-absorção 
+ • Distensão abdominal 
+ • Deficiências nutricionais

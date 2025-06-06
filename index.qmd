@@ -54,6 +54,12 @@ This is the teaching repository. Here you'll find:
 - 👉 [Slides – Chronic Pancreatitis](Pancreatitis/Chronic_pancreatitis.html)
 - 👉 [Lecture Text – Chronic Pancreatitis](Pancreatitis/Chronic_pancreatitis.qmd)
 
+### Edema
+
+- Cirrhosis
+    - [Slides](Edema/edema_cirrose/caso_clínico_2_slides.html)
+    - [pdf](Edema/edema_cirrose/caso_clínico_2.pdf)
+
 ---
 
 ## 🔗 Resources

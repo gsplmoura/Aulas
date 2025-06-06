@@ -1,0 +1,100 @@
+---
+title: "SRAA"
+format: html
+---
+
+PAPEL DO SISTEMA RENINA-ANGIOTENSINA NO CONTROLE DA PRESSÃO ARTERIAL
+
+Além da capacidade renal de controlar a pressão arterial por meio de alterações no volume de líquido extracelular, os rins também possuem outro potente mecanismo de controle, o sistema renina-angiotensina. A renina é uma enzima proteica liberada pelos rins quando a pressão arterial cai muito. Por sua vez, aumenta a pressão arterial de diferentes maneiras, ajudando a corrigir a queda inicial da pressão.
+
+COMPONENTES DO SISTEMA RENINA- ANGIOTENSINA A Figura 19.9 mostra as principais etapas funcionais pelas quais o sistema renina-angiotensina ajuda a regular a pressão arterial. A renina é sintetizada e armazenada nas células justaglomerulares (células JG) dos rins. São células de musculatura lisa modificada, localizadas principalmente nas
+paredes das arteríolas aferentes imediatamente proximais aos glomérulos.
+Diversos fatores controlam a secreção de renina, incluindo o sistema nervoso
+simpático, vários hormônios e autacoides locais, como prostaglandinas,
+óxido nítrico e endotelina. Quando a pressão arterial cai, as células JG
+liberam renina por meio de pelo menos três mecanismos principais:
+
+1. Os barorreceptores sensíveis à pressão nas células JG respondem à
+diminuição da pressão arterial com o aumento da liberação de renina.
+2. A diminuição da oferta de cloreto de sódio para as células da mácula
+densa no início do túbulo distal estimula a liberação de renina (ver
+Capítulo 27)
+3. O aumento da atividade do sistema nervoso simpático estimula a
+liberação de renina ao ativar os receptores beta-adrenérgicos nas células
+JG. A estimulação simpática também ativa os receptores alfa-
+adrenérgicos, que podem aumentar a reabsorção renal de cloreto de
+sódio e reduzir a taxa de filtração glomerular em casos de forte ativação
+simpática. A elevada atividade simpática renal também aumenta a
+sensibilidade do barorreceptor renal e dos mecanismos da mácula densa
+para a liberação de renina.
+
+A maior parte da renina é liberada no sangue que perfunde os rins para,
+em seguida, circular por todo o corpo. No entanto, pequenas quantidades de
+renina permanecem nos líquidos locais dos rins e exercem várias funções
+intrarrenais.
+
+A renina é uma enzima, não uma substância vasoativa. Como mostrado
+na Figura 19.9, a renina atua enzimaticamente sobre outra proteína
+plasmática, uma globulina chamada substrato de renina (ou
+angiotensinogênio), para liberar um peptídeo de 10 aminoácidos, a
+angiotensina I. A angiotensina I tem algumas propriedades vasoconstritoras,
+mas não fortes o suficiente para provocar alterações significativas na função
+circulatória. A renina persiste no sangue por 30 a 60 minutos e continua a
+provocar a formação de quantidades adicionais de angiotensina I durante
+todo o período.
+Em um intervalo que varia de alguns segundos a minutos após a
+formação da angiotensina I, dois aminoácidos adicionais são removidos da
+angiotensina I para formar um peptídeo de 8 aminoácidos, a angiotensina II.
+Essa conversão ocorre em grande parte nos pulmões, enquanto o sangue flui
+através dos pequenos vasos pulmonares, catalisada por uma enzima chamada
+enzima conversora de angiotensina (ECA), presente no endotélio da
+vasculatura pulmonar. Outros tecidos, como os rins e os vasos sanguíneos,
+também contêm ECA e, portanto, conseguem formar a angiotensina II
+localmente.
+A angiotensina II é um vasoconstritor extremamente potente, além de
+também afetar a função circulatória de outras maneiras. No entanto,
+permanece no sangue apenas por 1 ou 2 minutos, porque é rapidamente
+inativada por várias enzimas sanguíneas e teciduais chamadas coletivamente
+de angiotensinases.
+A angiotensina II tem dois efeitos principais que podem elevar a
+pressão arterial. O primeiro, a vasoconstrição em muitas áreas do corpo,
+ocorre rapidamente. A vasoconstrição ocorre intensamente nas arteríolas e
+menos nas veias. A constrição das arteríolas aumenta a resistência vascular
+periférica total, elevando, assim, a pressão arterial, como mostrado na parte
+inferior da Figura 19.9. Além disso, a leve constrição das veias promove um
+aumento do retorno venoso, ajudando o coração a bombear contra o aumento
+da pressão.
+O segundo meio principal pelo qual a angiotensina II aumenta a pressão
+arterial é pela diminuição da excreção de sal e água pelos rins, devido tanto
+à estimulação da secreção de aldosterona, como de efeitos diretos. A
+retenção de sal e água pelos rins aumenta lentamente o volume de líquido
+extracelular, que então aumenta a pressão arterial durante as horas e os dias
+subsequentes. Esse efeito a longo prazo, por meio de ações diretas e indiretas
+da angiotensina II sobre os rins, é ainda mais poderoso do que o mecanismo
+agudo de vasoconstrição na eventual elevação da pressão.
+
+### Rapidez e intensidade da resposta da pressão vasoconstritora ao
+sistema renina-angiotensina
+
+A Figura 19.10 mostra um experimento que demonstra o efeito de uma
+hemorragia sobre a pressão arterial em duas condições distintas: (1) com o
+funcionamento do sistema renina-angiotensina; e (2) após o bloqueio do
+sistema por um anticorpo bloqueador de renina. Observe que após a
+hemorragia – sangramento suficiente para causar uma diminuição aguda da
+pressão arterial para 50 mmHg – a pressão arterial voltou a subir para 83
+mmHg, quando o sistema renina-angiotensina estava funcional. Por outro
+lado, a pressão subiu para apenas 60 mmHg quando o sistema renina-
+angiotensina foi bloqueado. Esse fenômeno mostra que o sistema renina-
+angiotensina é potente o suficiente para elevar a pressão arterial, no mínimo,
+até a metade do valor normal alguns minutos após uma hemorragia grave.
+Portanto, esse sistema pode salvar a vida do paciente, especialmente nos
+casos de choque circulatório.
+
+Observe também que o sistema vasoconstritor renina-angiotensina
+requer cerca de 20 minutos para ficar totalmente ativo. Portanto, é um pouco
+mais lento do que os reflexos nervosos e o sistema simpático noradrenalina-
+adrenalina.
+
+A angiotensina II provoca retenção renal de sal e água – um
+mecanismo importante para o controle a longo prazo da pressão
+arterial

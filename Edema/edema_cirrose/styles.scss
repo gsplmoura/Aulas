@@ -1,0 +1,85 @@
+/*-- scss:defaults --*/
+
+// Import Google Fonts
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Quicksand:wght@400;700&display=swap");
+
+// Font and color base
+$font-family-sans-serif: "Open Sans", sans-serif !default;
+$presentation-heading-font: "Quicksand", sans-serif !default;
+$body-color: #333 !default;
+$body-bg: #f7fbfc !default;
+
+$link-color: #3b759e !default;
+$selection-bg: #134674 !default;
+
+$presentation-font-size-root: 26px !default;
+$presentation-heading-color: $body-color !default;
+$presentation-heading-text-transform: capitalize !default;
+$presentation-heading-font-weight: normal !default;
+$presentation-heading-text-shadow: none !default;
+
+$presentation-h1-font-size: 2.0em !default;
+$presentation-h2-font-size: 1.8em !default;
+$presentation-h3-font-size: 1.6em !default;
+$presentation-h4-font-size: 1.4em !default;
+
+// Colors for code blocks
+$code-block-border-color: lighten($link-color, 30%) !default;
+$code-block-bg: transparent !default;
+
+$dark-bg-text-color: #fff !default;
+
+$overlayElementBgColor: 0, 0, 0 !default;
+$overlayElementFgColor: 240, 240, 240 !default;
+
+
+/*-- scss:rules --*/
+
+// Corrige links cortados
+.reveal a {
+  line-height: 1.3em;
+}
+
+// Scroll em slides longos marcados com {.scrollable}
+section.scrollable {
+  overflow-y: auto !important;
+  max-height: 90vh;
+  padding-right: 1em;
+}
+
+// Destaque visual para <strong> e <b>
+.reveal .slides {
+  strong, b {
+    font-weight: 500;
+    color: #663344;
+  }
+}
+
+// Logotipo fixo no canto superior direito
+.reveal .logo {
+  width: 150px !important;
+  top: 10px;
+  right: 10px;
+  position: fixed;
+}
+
+// Texto menor opcional com classe .smaller
+.reveal .smaller {
+  font-size: 0.75em;
+  color: #666666;
+}
+
+// Texto atenuado
+.text-muted {
+  color: lighten($body-color, 50%);
+}
+
+.reveal ul {
+  padding-left: 1.5em !important;  // Garante espaço antes do bullet
+  list-style-position: outside;   // Garante que os bullets não fiquem colados no texto
+}
+
+.reveal li {
+  overflow-wrap: break-word;
+  line-height: 1.4em;
+}

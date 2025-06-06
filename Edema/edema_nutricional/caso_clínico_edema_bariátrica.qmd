@@ -1,0 +1,521 @@
+---
+title: "Caso Clínico" 
+subtitle: "Edema em pós-operatório de cirurgia bariátrica"
+institute: "Faculdade de Medicina de Ribeirão Preto - USP"
+author: "Gustavo Santos Paiva Laender Moura"
+email: "gsplmoura@usp.br"
+date: today
+cache: true
+format: 
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 4
+    toc-float:
+      collapsed: false
+      smooth-scroll: true
+    code-fold: false
+  pdf:
+    documentclass: article
+    fontsize: 10pt
+    linestretch: 1.1
+    margin-left: 1.5cm
+    margin-right: 1.5cm
+    margin-top: 1.8cm
+    margin-bottom: 1.8cm
+---
+
+```{r}
+#| label: setup
+#| include: false
+lab <- readr::read_csv("exames_laboratoriais.csv")
+```
+
+# Caso Clínico
+
+## Identificação
+
+**CTSS**, gênero feminino, 26 anos, branca, natural e procedente de Franca, casada, 2 filhos, do lar, católica.
+
+## Queixa Principal
+
+Inchaço nas pernas há 7 meses.
+
+## História da Doença Atual
+
+Há sete meses, a paciente passou a apresentar edema em região de dorso dos pés, bilateral, simétrico, indolor e sem sinais inflamatórios. Inicialmente, notava acentuação do edema no período vespertino, especialmente após longos períodos em ortostatismo. Nega alterações tróficas cutâneas, como hiperpigmentação, descamação ou úlceras. O quadro evoluiu de forma lenta e progressiva, com aumento gradual do volume do edema ao longo dos meses. Há cerca de três meses, observou agravamento do quadro, com extensão do edema para coxas, mãos e face. Desde então, passou a referir fadiga e astenia importantes, com intolerância às atividades habituais e dificuldade para deambular, atribuída à intensidade do edema em membros inferiores.
+
+Paciente com história de obesidade desde a infância, com ganho ponderal progressivo após as gestações. Foi submetida à cirurgia bariátrica pela técnica de bypass gástrico em Y de Roux (cirurgia de Capella) há 18 meses, com peso de 138,2 kg e índice de massa corporal (IMC) de 52,6 kg/m² à época. Evoluiu satisfatoriamente no pós-operatório imediato, sem intercorrências.
+
+Antes da cirurgia, relatava hábito intestinal constipado, com evacuações em dias alternados e fezes ressecadas. Após o procedimento cirúrgico, passou a apresentar três episódios diários de evacuação com fezes pastosas. Progressivamente, o padrão evoluiu para diarreia líquida, de grande volume, com presença de restos alimentares. Atualmente, apresenta cerca de quatro episódios diários, com odor fétido, sem muco ou sangue. Nega presença de gordura nas fezes. Nega febre ou sinais de infecção desde o procedimento.
+
+No sétimo mês pós-operatório, procurou atendimento por quadro de náuseas, dor abdominal difusa em cólica, flatulência fétida, alteração na pigmentação capilar, queda de cabelo e fragilidade ungueal. Foi submetida a endoscopia digestiva alta, sem alterações significativas, e iniciou reposição com sulfato ferroso após diagnóstico de anemia ferropriva.
+
+## Hábitos alimentares
+
+**Café da manhã:**
+Café preto com açúcar
+1 fatia de pão branco com margarina
+
+**Lanche da manhã:**
+Não costuma realizar
+
+**Almoço:**
+Arroz branco e purê de batata (eventualmente consome leguminosas) Pequena porção de legumes refogados Consumo de carne eventual. Mais comumente consome salsicha ou ovo. 1 copo de suco artificial
+
+**Lanche da tarde:**
+Bolacha água e sal (4 unidades)
+Chá adoçado com açúcar
+
+**Jantar:**
+Sopa de macarrão com legumes ou mesmo do almoço.
+
+**Ceia:**
+1 banana
+
+**Observações:**
+Refere redução da tolerância à carne vermelha e laticínios desde a cirurgia. Nega uso regular de suplementos proteicos. Relata sensação precoce de saciedade, preferência por alimentos pastosos e baixo apetite ao longo do dia.
+
+## Interrogatório sobre os diversos aparelhos
+
+-   **Pele e anexos**: pálida e seca, sem prurido. Nega alteração da pigmentação cutânea. Unha frágil e quebradiça.
+-   **Neurológico**: fraqueza, vertigens, sem cefaleia.
+-   **Oftalmológico**: edema palpebral matutino. Nega cegueira noturna e xeroftalmia.
+-   **Otorrinolaringológico**: sem alterações.
+-   **Respiratório**: nega dispneia, tosse ou cianose.
+-   **Cardiovascular**: nega dor precordial, palpitações, ortopneia ou dispneia paroxística noturna.
+-   **Gastrointestinal**: dor abdominal leve/moderada, náuseas, evacuações diarreicas com odor fétido e restos alimentares. Sem muco, pus ou melena. Nega presença de gordura nas fezes. Flatulência excessiva de odor fétido. Nega pirose, vômitos ou disfagia.
+-   **Urinário**: nega oligúria, polaciúria, hematúria, disúria, e espumúria.
+-   **Endócrino**: perda ponderal de 32% desde cirurgia. Nega intolerância térmica.
+-   **Músculo-esquelético**: fraqueza muscular e dificuldade para deambular atribuída ao edema. Sem artralgias.
+
+## Antecedentes Pessoais
+
+-   Doenças da infância: sem intercorrências.
+-   Nega hipertensão e diabetes.
+-   Esteatose hepática leve confirmada por biópsia intraoperatória.
+-   Abscesso e fissura anal há 3 meses.
+
+## Cirurgias
+
+-   Duas cesarianas.
+-   Cirurgia de Capella + colecistectomia há 18 meses.
+
+## Medicamentos em uso
+
+-   Sulfato ferroso 25 mg/dia
+-   Polivitamínico 1 comprimido ao dia
+-   Vitamina B12 5.000 mcg intramuscular trimestralmente
+-   Carbonato de cálcio 500 mg duas vezes ao dia
+-   Vitamin D3 3.000 UI uma vez ao dia
+
+## Exame Físico
+
+-   **Peso**: 85 kg. **IMC**: 32,3 kg/m² (com edema)
+-   **Estado geral**: regular, consciente, orientada no tempo e espaço.
+-   **Temperatura**: afebril
+-   **Mucosas** hipocoradas (++/4), desidratadas (+/4+), anictéricas e acianóticas. Queilite angular discreta. Lingua despapilada. **Alopecia difusa** e cabelo com coloração acobreada. **Tireóide** normopalpável
+
+### Sistema Cardiovascular
+
+Bulhas rítmicas, normofonéticas em 2 tempos.Sem sopros. FC: 68 bpm.PA: 110/60 mmHg.
+
+### Sistema Respiratório
+
+Eupneica.Expansibilidade torácica preservada.Percussão: som claro pulmonar.Ausculta: murmúrio vesicular presente, sem ruídos adventícios.
+
+### Abdome
+
+Abdome globoso, flácido, indolor. Ruídos hidroaéreos presentes e hiperativos. Percussão com timpanismo aumentado. Sinal de macicez móvel e sinal do piparote negativos. Fígado não palpável ou percutíveis abaixo do rebordo costal direito. Traube livre. Palpação profunda dolorosa difusamente, sem sinais de irritação peritonial. Sem presença de massas ou visceromegalias.
+
+### Membros
+
+-   Edema (++++/4) em membros inferiores até raiz de coxa. Pulsos periféricos simétricos e cheios. Edema em mãos (++/4)
+
+# Hipóteses Diagnósticas
+
+## Diagnósticos Sindrômicos
+
+1.  **Síndrome Edematosa Generalizada (anasarca)**
+    Caracterizada por edema bilateral e simétrico em membros inferiores, com progressão para mãos e face, sem sinais flogísticos. Evolução lenta e progressiva, associada a sintomas sistêmicos como fadiga, intolerância ao esforço e dificuldade para deambular. Ausência de sinais clínicos de insuficiência cardíaca, renal ou hepática avançada aponta para outras causas, como hipoalbuminemia.
+
+2.  **Síndrome Disabsortiva**
+    Diarreia crônica de grande volume, com restos alimentares, flatulência fétida e perda ponderal significativa (32% do peso corporal). História compatível com má absorção de nutrientes após cirurgia bariátrica (bypass em Y de Roux), associada a sinais clínicos de deficiência proteico-calórica e de micronutrientes.
+
+3.  **Síndrome de Deficiência Proteico-Calórica (Kwashiorkor pós-bariátrico)**
+    Edema generalizado em paciente com dieta pobre em proteínas, hipoproteinemia presumida, sinais de desnutrição (alopecia, queilite angular, língua despapilada, fadiga, cabelo com coloração acobreada), associado a má ingestão alimentar e má absorção. Quadro reforçado pela ausência de suplementação proteica regular.
+
+4.  **Síndrome de Má Absorção de Micronutrientes**
+    Evidências clínicas de deficiência de ferro (anemia ferropriva), de vitamina A (cabelos opacos, ressecamento cutâneo), zinco (unhas frágeis, alopecia), e possível deficiência de proteínas e vitaminas do complexo B. Quadro consistente com a evolução esperada de complicações nutricionais tardias após bypass gástrico.
+
+5.  **Síndrome Anêmica Crônica**
+    Manifesta-se por palidez cutaneomucosa, queilite angular, astenia e intolerância ao esforço. História de anemia ferropriva já conhecida e reposição medicamentosa em curso. Possivelmente multifatorial, com contribuição de deficiência de ferro, proteína e vitaminas (B12 e folato).
+
+**Observação:** A ausência de sinais clínicos de síndrome nefrótica (espumúria, oligúria), de insuficiência cardíaca congestiva (dispneia, ortopneia) e de hipertensão portal ou cirrose avançada ajuda a afastar essas causas secundárias de edema. No entanto, ainda é necessário confirmar a presença de hipoalbuminemia e dosar eletrólitos, proteínas totais, função hepática e renal para melhor definição etiológica.
+
+## Diagnósticos etiológicos
+
+1.  **Desnutrição proteico-calórica secundária a má absorção pós-bypass gástrico em Y de Roux (cirurgia de Capella)**
+    A paciente apresenta sinais clínicos e dietéticos compatíveis com ingestão e absorção proteica insuficientes. A cirurgia bariátrica altera o trânsito intestinal, reduzindo a área de absorção de proteínas e micronutrientes e promovendo risco aumentado de deficiências nutricionais, especialmente na ausência de suplementação adequada.
+
+2.  **Supercrescimento bacteriano do intestino delgado (SIBO)**
+    A alteração anatômica do trato gastrointestinal após o bypass favorece estase intestinal e colonização anômala do intestino delgado por bactérias do cólon. O SIBO leva à má digestão e má absorção de nutrientes, contribuindo para diarreia crônica, distensão abdominal, flatulência fétida, perda ponderal e deficiência de vitaminas lipossolúveis e B12.
+
+3.  **Anemia ferropriva secundária à má absorção e à ingestão deficiente**
+    A deficiência de ferro é comum após bypass gástrico, tanto pela menor ingestão quanto pela dificuldade de absorção no duodeno e jejuno proximal, áreas excluídas da digestão no Y de Roux. Há sinais clínicos compatíveis (palidez, queilite, glossite) e a paciente já faz uso de sulfato ferroso, indicando diagnóstico prévio.
+
+4.  **Hipoproteinemia secundária à má ingestão e absorção de proteínas**
+    A combinação de dieta hipoproteica, intolerância alimentar (principalmente à carne) e síndrome disabsortiva leva à hipoalbuminemia, com consequente redução da pressão oncótica plasmática e desenvolvimento de edema periférico e anasarca.
+
+5.  **Deficiências múltiplas de micronutrientes (zinco, vitamina A, vitaminas do complexo B, entre outros)**
+    Quadro clínico sugere deficiência de zinco (unhas frágeis, alopecia), vitamina A (cabelos ressecados, desnutrição), vitamina B12 (suspeita dada a cirurgia), entre outros. Essas deficiências contribuem para a astenia, alterações cutâneas e prejuízo funcional global.
+
+# Exames complementares
+
+```{r}
+knitr::kable(lab)
+```
+
+## Bioquímica
+
+### 1. Anemia ferropriva com padrão misto
+- **Hemoglobina** em queda (13,4 → 7,9 g/dL)
+- **Ferro** e **CTLFe** muito baixos aos 18 meses
+- **Ferritina** elevada (provável resposta inflamatória)
+
+➡️ **Anemia carencial com componente inflamatório**
+
+### 2. Desnutrição proteico-calórica
+- **Albumina**: 3,8 → 2,0 g/dL
+- **Proteínas totais**: sempre < 6 g/dL
+
+➡️ **Hipoproteinemia importante compatível com síndrome edematosa (anasarca)**
+
+### 3. Hipovitaminose A
+
+- **Vitamina A** persistentemente baixa (0,99 → 0,80 µmol/L)
+
+➡️ **Carência com risco para xeroftalmia, imunossupressão e alterações epiteliais**
+
+### 4. Deficiência de vitamina C
+
+- **Vitamina C** < 0,4 mg% em todos os pontos (mínimo: 0,24)
+
+➡️ **Deficiência severa com risco de escorbuto**
+
+### 5. Vitaminas do complexo B
+
+- **Vitamina B12** e **folato** preservados (devido à suplementação)
+
+➡️ **Sem evidência laboratorial de deficiência no momento**
+
+## Teste de Sudan III
+
+No caso clínico: **Sudan III: +++** → indica grande quantidade de gordura neutra nas fezes.
+
+#### O que é
+
+O teste com Sudan III é uma coloração específica utilizada para detectar a presença de gordura neutra nas fezes. Ele é usado na investigação de esteatorreia e tem caráter qualitativo, avaliando a integridade do processo digestivo e absortivo de lipídios no trato gastrointestinal.
+
+#### Como funciona
+
+-   Adiciona-se o corante Sudan III a uma amostra de fezes.
+-   O corante se liga às gotículas de gordura presentes na amostra.
+-   A lâmina é então examinada ao microscópio.
+-   A gordura aparece como vacúolos corados de vermelho-alaranjado.
+
+#### Interpretação
+
+| Resultado | Aspecto microscópico | Interpretação clínica |
+|------------------------|------------------------|------------------------|
+| Negativo | Ausência ou escassez de vacúolos corados | Normal; não há evidência de esteatorreia |
+| Positivo (+ a +++) | Múltiplos vacúolos grandes e corados intensamente | Presença de gordura nas fezes; indica esteatorreia |
+
+#### Significado clínico
+
+A positividade sugere má-absorção de lipídios, que pode ocorrer em situações como:
+
+- Insuficiência pancreática exócrina, Doença celíaca, Giardíase, Doença de Whipple, Síndrome do intestino curto, Pós-cirurgia bariátrica com desvio (bypass).
+
+
+## Teste da D-Xilose
+
+### Resultado do Caso
+- **Dose ingerida**: 25 g
+- **Eliminação urinária**: 3,0 g em 5 horas (12%)
+- **Interpretação**: valor < 16% (4g) → compatível com **síndrome de má-absorção intestinal**
+
+### Objetivo do Teste
+Avaliar a capacidade de **absorção da mucosa do intestino delgado** de carboidratos simples, independentemente da ação de bile ou enzimas pancreáticas.
+
+### Interpretação Clínica
+- **Absorção normal** → excreção ≥ 4 g (≥ 16% da dose)
+- **Má-absorção intestinal** → excreção < 4 g (< 16%)
+- **Importante**: baixa excreção indica comprometimento da **mucosa intestinal**
+
+### Relevância
+- Útil para diferenciar causas mucosas (ex: doença celíaca, giardíase, Whipple) de insuficiência pancreática.
+- Absorção ocorre no **jejuno**; D-xilose é excretada inalterada pelos rins.
+
+### Fatores que interferem
+- **Falso positivo**: insuficiência renal, coleta urinária incompleta
+- **Sérica**: menos dependente da função renal; ideal se coleta urinária for inviável
+
+### Tabela Resumida
+
+| Variante     | Urinária                     | Sérica                 |
+|--------------|------------------------------|------------------------|
+| Valor normal | ≥ 4 g (≥ 16%)                | ≥ 20 mg/dL             |
+| Alterado     | < 4 g (< 16%)                | < 20 mg/dL             |
+| Vantagem     | Padrão ouro tradicional      | Útil em anúria/incontinência |
+| Limitação    | Coleta trabalhosa e crítica  | Influenciada por tempo/hidratação |
+
+### Conclusão para o caso
+Teste compatível com **síndrome disabsortiva**, reforçando hipótese de **comprometimento da mucosa intestinal** (ex: deficiência de micronutrientes, SIBO, bypass gástrico).
+
+
+## Teste do Hidrogênio Expirado com Glicose
+
+### Resultado do Caso
+- **Pico de H₂**: 16 ppm (↑ 14 ppm em relação ao basal)
+- **Interpretação**: valor ≥ 12 ppm → compatível com **supercrescimento bacteriano do intestino delgado (SIBO)**
+
+➡️ Reforça o diagnóstico de **síndrome disabsortiva secundária ao bypass gástrico**, com provável contribuição do SIBO para a má absorção de nutrientes, diarreia crônica e deficiências múltiplas.
+
+### O que é?
+- Exame **não invasivo** que detecta **supercrescimento bacteriano no intestino delgado (SIBO)** por meio da medição de hidrogênio (H₂) exalado após ingestão de glicose.
+
+### Como funciona?
+- Em condições normais, a glicose é **absorvida no jejuno** e não chega ao cólon.
+- Se houver SIBO, as bactérias fermentam a glicose no intestino delgado, produzindo **H₂**, que é absorvido, levado ao pulmão e exalado.
+
+### Como é realizado?
+1. Coleta basal de ar expirado.
+2. Ingestão de **90 g de glicose** diluída em água.
+3. Coletas seriadas de ar expirado a cada 10 minutos por 3 horas.
+4. Análise em equipamento específico para detecção de H₂.
+
+### Resultado positivo
+- **Aumento ≥ 12 ppm** de H₂ em relação ao basal → **SIBO positivo**
+
+### Fatores que interferem no resultado
+- **Dieta inadequada antes do exame** (ex: fibras, lactose)
+- **Trânsito intestinal acelerado** → falso positivo
+- **Doenças pulmonares** → dificuldade na coleta
+
+### Relevância clínica
+- Útil para diagnóstico de **SIBO**, especialmente em pacientes com:
+  - Cirurgia bariátrica (ex: bypass em Y de Roux)
+  - Síndromes de estase ou dismotilidade intestinal
+
+### Sintomas associados ao SIBO
+
+Diarreia crônica, má-absorção, distensão abdominal, deficiências nutricionais, plenitude precoce, flatulência excessiva.
+
+### Conclusão para o caso
+
+Teste do hidrogênio expirado com glicose **positivo (16 ppm)**, compatível com **supercrescimento bacteriano no intestino delgado (SIBO)**. O resultado reforça a hipótese de **síndrome disabsortiva** em paciente pós-bypass gástrico, com **agravamento da má absorção de nutrientes, diarreia crônica e carências múltiplas**. O SIBO atua como fator contribuidor adicional ao comprometimento funcional da mucosa intestinal.
+
+## Sangue oculto e trânsito intestinal
+
+- **Pesquisa de sangue oculto nas fezes: negativa**  
+  
+  ➤ Afasta sangramentos digestivos ocultos como causa da anemia, reforçando a hipótese de **anemia carencial (ferropriva)** secundária à má absorção e baixa ingestão.
+
+- **Tempo de trânsito intestinal e seriografia: normais**  
+
+  ➤ Reforça que a **diarreia crônica é funcional e disabsortiva**, e **não secundária a causas mecânicas ou aceleradas do trânsito**.
+
+➡️ Ambos os exames contribuem para excluir outras causas de diarreia crônica e perda de peso, sustentando o diagnóstico de **síndrome disabsortiva com provável contribuição de SIBO e deficiência nutricional grave**.
+
+
+# Exames complementares
+
+```{r}
+#| echo: false
+knitr::kable(lab)
+```
+
+## Bioquímica
+
+### 1. Anemia ferropriva com padrão misto
+- **Hemoglobina** em queda (13,4 → 7,9 g/dL)
+- **Ferro** e **CTLFe** muito baixos aos 18 meses
+- **Ferritina** elevada (provável resposta inflamatória)
+
+➡️ **Anemia carencial com componente inflamatório**
+
+### 2. Desnutrição proteico-calórica
+- **Albumina**: 3,8 → 2,0 g/dL
+- **Proteínas totais**: sempre < 6 g/dL
+
+➡️ **Hipoproteinemia importante compatível com síndrome edematosa (anasarca)**
+
+### 3. Hipovitaminose A
+
+- **Vitamina A** persistentemente baixa (0,99 → 0,80 µmol/L)
+
+➡️ **Carência com risco para xeroftalmia, imunossupressão e alterações epiteliais**
+
+### 4. Deficiência de vitamina C
+
+- **Vitamina C** < 0,4 mg% em todos os pontos (mínimo: 0,24)
+
+➡️ **Deficiência severa com risco de escorbuto**
+
+### 5. Vitaminas do complexo B
+
+- **Vitamina B12** e **folato** preservados (devido à suplementação)
+
+➡️ **Sem evidência laboratorial de deficiência no momento**
+
+## Teste de Sudan III
+
+No caso clínico: **Sudan III: +++** → indica grande quantidade de gordura neutra nas fezes.
+
+#### O que é
+
+O teste com Sudan III é uma coloração específica utilizada para detectar a presença de gordura neutra nas fezes. Ele é usado na investigação de esteatorreia e tem caráter qualitativo, avaliando a integridade do processo digestivo e absortivo de lipídios no trato gastrointestinal.
+
+#### Como funciona
+
+-   Adiciona-se o corante Sudan III a uma amostra de fezes.
+-   O corante se liga às gotículas de gordura presentes na amostra.
+-   A lâmina é então examinada ao microscópio.
+-   A gordura aparece como vacúolos corados de vermelho-alaranjado.
+
+#### Interpretação
+
+| Resultado | Aspecto microscópico | Interpretação clínica |
+|------------------------|------------------------|------------------------|
+| Negativo | Ausência ou escassez de vacúolos corados | Normal; não há evidência de esteatorreia |
+| Positivo (+ a +++) | Múltiplos vacúolos grandes e corados intensamente | Presença de gordura nas fezes; indica esteatorreia |
+
+#### Significado clínico
+
+A positividade sugere má-absorção de lipídios, que pode ocorrer em situações como:
+
+- Insuficiência pancreática exócrina, Doença celíaca, Giardíase, Doença de Whipple, Síndrome do intestino curto, Pós-cirurgia bariátrica com desvio (bypass).
+
+
+## Teste da D-Xilose
+
+### Resultado do Caso
+- **Dose ingerida**: 25 g
+- **Eliminação urinária**: 3,0 g em 5 horas (12%)
+- **Interpretação**: valor < 16% (4g) → compatível com **síndrome de má-absorção intestinal**
+
+### Objetivo do Teste
+Avaliar a capacidade de **absorção da mucosa do intestino delgado** de carboidratos simples, independentemente da ação de bile ou enzimas pancreáticas.
+
+### Interpretação Clínica
+- **Absorção normal** → excreção ≥ 4 g (≥ 16% da dose)
+- **Má-absorção intestinal** → excreção < 4 g (< 16%)
+- **Importante**: baixa excreção indica comprometimento da **mucosa intestinal**
+
+### Relevância
+- Útil para diferenciar causas mucosas (ex: doença celíaca, giardíase, Whipple) de insuficiência pancreática.
+- Absorção ocorre no **jejuno**; D-xilose é excretada inalterada pelos rins.
+
+### Fatores que interferem
+- **Falso positivo**: insuficiência renal, coleta urinária incompleta
+- **Sérica**: menos dependente da função renal; ideal se coleta urinária for inviável
+
+### Tabela Resumida
+
+| Variante     | Urinária                     | Sérica                 |
+|--------------|------------------------------|------------------------|
+| Valor normal | ≥ 4 g (≥ 16%)                | ≥ 20 mg/dL             |
+| Alterado     | < 4 g (< 16%)                | < 20 mg/dL             |
+| Vantagem     | Padrão ouro tradicional      | Útil em anúria/incontinência |
+| Limitação    | Coleta trabalhosa e crítica  | Influenciada por tempo/hidratação |
+
+### Conclusão para o caso
+Teste compatível com **síndrome disabsortiva**, reforçando hipótese de **comprometimento da mucosa intestinal** (ex: deficiência de micronutrientes, SIBO, bypass gástrico).
+
+
+## Teste do Hidrogênio Expirado com Glicose
+
+### Resultado do Caso
+- **Pico de H₂**: 16 ppm (↑ 14 ppm em relação ao basal)
+- **Interpretação**: valor ≥ 12 ppm → compatível com **supercrescimento bacteriano do intestino delgado (SIBO)**
+
+➡️ Reforça o diagnóstico de **síndrome disabsortiva secundária ao bypass gástrico**, com provável contribuição do SIBO para a má absorção de nutrientes, diarreia crônica e deficiências múltiplas.
+
+### O que é?
+- Exame **não invasivo** que detecta **supercrescimento bacteriano no intestino delgado (SIBO)** por meio da medição de hidrogênio (H₂) exalado após ingestão de glicose.
+
+### Como funciona?
+- Em condições normais, a glicose é **absorvida no jejuno** e não chega ao cólon.
+- Se houver SIBO, as bactérias fermentam a glicose no intestino delgado, produzindo **H₂**, que é absorvido, levado ao pulmão e exalado.
+
+### Como é realizado?
+1. Coleta basal de ar expirado.
+2. Ingestão de **90 g de glicose** diluída em água.
+3. Coletas seriadas de ar expirado a cada 10 minutos por 3 horas.
+4. Análise em equipamento específico para detecção de H₂.
+
+### Resultado positivo
+- **Aumento ≥ 12 ppm** de H₂ em relação ao basal → **SIBO positivo**
+
+### Fatores que interferem no resultado
+- **Dieta inadequada antes do exame** (ex: fibras, lactose)
+- **Trânsito intestinal acelerado** → falso positivo
+- **Doenças pulmonares** → dificuldade na coleta
+
+### Relevância clínica
+- Útil para diagnóstico de **SIBO**, especialmente em pacientes com:
+  - Cirurgia bariátrica (ex: bypass em Y de Roux)
+  - Síndromes de estase ou dismotilidade intestinal
+
+### Sintomas associados ao SIBO
+- Diarreia crônica  
+- Má-absorção  
+- Distensão abdominal  
+- Deficiências nutricionais
+
+### Conclusão para o caso
+
+Teste do hidrogênio expirado com glicose **positivo (16 ppm)**, compatível com **supercrescimento bacteriano no intestino delgado (SIBO)**. O resultado reforça a hipótese de **síndrome disabsortiva** em paciente pós-bypass gástrico, com **agravamento da má absorção de nutrientes, diarreia crônica e carências múltiplas**. O SIBO atua como fator contribuidor adicional ao comprometimento funcional da mucosa intestinal.
+
+## Sangue oculto e trânsito intestinal
+
+- **Pesquisa de sangue oculto nas fezes: negativa**  
+  
+  ➤ Afasta sangramentos digestivos ocultos como causa da anemia, reforçando a hipótese de **anemia carencial (ferropriva)** secundária à má absorção e baixa ingestão.
+
+- **Tempo de trânsito intestinal e seriografia: normais**  
+
+  ➤ Reforça que a **diarreia crônica é funcional e disabsortiva**, e **não secundária a causas mecânicas ou aceleradas do trânsito**.
+
+➡️ Ambos os exames contribuem para excluir outras causas de diarreia crônica e perda de peso, sustentando o diagnóstico de **síndrome disabsortiva com provável contribuição de SIBO e deficiência nutricional grave**.
+
+
+# Resumo Integrado do Caso
+
+Paciente jovem, com histórico de obesidade grave e submetida a bypass gástrico em Y de Roux há 18 meses, evoluiu com **síndrome disabsortiva grave**, caracterizada por:
+
+- **Diarreia crônica com restos alimentares**
+- **Edema generalizado (anasarca)**
+- **Perda ponderal acentuada (32%)**
+- **Sinais clínicos e laboratoriais de desnutrição proteico-calórica e múltiplas deficiências nutricionais**
+
+Os exames laboratoriais confirmam:
+
+- **Anemia ferropriva com componente inflamatório**
+- **Hipoproteinemia grave (albumina 2,0 g/dL)**
+- **Deficiência de vitaminas A e C**
+- **Esteatorreia intensa (Sudan III +++)**
+- **Má absorção de carboidratos simples (teste da D-xilose com excreção urinária de 12%)**
+- **Presença de supercrescimento bacteriano intestinal (SIBO) confirmado por teste do H₂ expirado (16 ppm)**
+
+A paciente não apresenta sangramento digestivo oculto, nem distúrbios estruturais ou acelerados de trânsito intestinal.
+
+### Conclusão
+
+O conjunto de achados é compatível com **síndrome disabsortiva secundária à cirurgia bariátrica (bypass gástrico)**, agravada por:
+
+- **Comprometimento da mucosa intestinal** (evidenciado pelo teste da D-xilose)
+- **Supercrescimento bacteriano do intestino delgado (SIBO)**
+
+Esses fatores levaram à **desnutrição proteico-calórica grave**, com importantes repercussões clínicas e laboratoriais. O quadro exige abordagem nutricional intensiva com nutrição parenteral, correção das deficiências e tratamento do SIBO com antimicrobiano.
